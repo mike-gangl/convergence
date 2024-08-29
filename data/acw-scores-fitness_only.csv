@@ -1,0 +1,92 @@
+Criteria / Score,Hypothetical Tool,AppEEARS,Field Campaign Explorer (FCX),OpenAltimetry,Data Access Tool,Operation IceBridge Portal,Vertex,Earthdata Search,SOOT,Airborne Data Visualizer,Giovanni,Worldview
+"As a user, I can search and access NASA EOSDIS's available data holdings",25,25,5,10,25,25,25,25,20,10,20,5
+"As a user, I can search data based on Geospatial areas",25,20,0,15,20,5,25,25,5,0,20,0
+"As a user, I can search for data based on Temporal bounds",25,15,0,5,5,5,25,25,25,5,0,0
+Search data by product ID (short name),25,25,0,25,0,25,25,25,25,0,25,0
+Search data by Campaign (e.g flight),25,0,0,0,0,0,25,25,25,25,0,0
+Search data by Instrument,25,0,0,0,0,0,25,25,25,0,25,0
+Search data by Mission,25,25,0,25,0,0,25,25,25,0,25,0
+Search by Principal Investigator (PI),25,0,0,0,0,0,0,0,25,0,0,0
+Search by criteria streamlined to use-based specific needs,25,0,0,25,0,0,25,0,0,0,0,0
+"As a user, I can search for data based on keywords",25,25,0,0,0,0,25,25,25,0,25,0
+"As a user, I can search for data variables based on keywords.",25,25,0,0,0,0,25,25,25,0,25,0
+"As a user, I can refine my search results based on multiple criteria",25,0,0,25,25,25,25,25,25,0,25,0
+A curated list of locations is supplied to enable common or popular searches Originally: Search for data at common/popular field and flux tower sites,20,0,0,0,0,0,20,20,20,0,20,0
+"As  a user, I can refine my search result based on the service/functionality selected",20,0,0,20,0,0,0,20,0,0,20,0
+"As a user, available services (and valid date ranges, etc.) are dynamically listed based on my data and search selections.",15,0,0,0,15,0,15,15,15,0,15,0
+Dynamically show numbers of files and total size for filter and subset options.,20,12,0,0,20,20,20,20,20,0,20,0
+"As a user, I can share my search with colleagues.",25,25,0,25,0,0,25,25,0,25,25,0
+"As a user, i can view historical searches",15,15,0,0,0,0,15,15,0,0,15,0
+"As a user, the tool provides dataset specific ""find similar data"" functionality.",20,0,0,0,0,0,20,20,0,0,0,0
+"As a user, I can use the tool to set up subscriptions to notify me when new data are available",15,0,0,0,0,0,0,15,0,0,0,0
+"As a user, I can acquire data via direct download in the UI",25,25,25,25,25,25,25,25,25,25,25,0
+"As a user, I can bulk download search data",25,25,0,25,15,15,25,25,25,0,25,0
+"As a user, I can acquire data via S3 and/or https direct access in the Earthdata Cloud",5,5,5,5,0,0,5,5,0,0,5,0
+"As a user, I can acquire data via public API",5,5,5,5,0,0,5,5,0,5,5,0
+"As a user, I can access public zarr stores for any operational data belonging to the tool.",25,0,0,0,0,0,0,25,0,0,25,0
+Candidate alternative (or tool) allows access of output via standard API(s),20,0,20,0,0,0,20,0,0,0,20,0
+"The tool allows exporting of search, download, and/or transformation references for use in programmatic access.",25,0,0,0,25,0,25,0,0,0,0,0
+"As a user, I can visualize search result footprints on  a map",25,0,25,25,0,25,25,25,0,25,0,0
+"As a user, I can visualize search result browse imagery on a map",25,0,25,0,0,0,25,25,0,25,0,0
+"As a user, I can visualize search result quicklook imagery on  a map",25,0,25,0,0,25,25,25,0,25,25,0
+Visualize environmental indicators on a map and browse imagery,15,0,15,15,0,15,15,15,0,0,15,0
+"As a user, I can view granule spatial bounds, quicklook, and browse imagery on a polar projection",20,0,0,20,0,20,20,20,0,0,20,0
+"As a user, I can visualize data availability on a timeline",15,0,15,15,0,0,15,15,0,0,15,15
+"As a user, I can visualize data on an interactive map",25,0,25,25,0,25,25,25,0,25,25,25
+"As a user, I can visualize data as an interactive time series.",25,25,25,25,0,0,25,0,0,25,25,0
+"As a user, I can create time series animations of data visualizations",25,0,25,0,0,0,0,0,0,0,25,25
+"As a user, I can visualize data in a cross-sectional or vertical profile",25,0,25,25,0,0,0,0,0,0,25,0
+"As a user, I can visualize multiple data variables at once.",25,25,25,25,0,0,0,25,0,25,25,0
+"As a user, I can visualize multiple data variables, visually  compare, and spatially compare them in the same geographical region",25,0,25,0,0,0,0,25,0,0,25,0
+"As a user, I can visualize quality information for my desired data within the UI",15,15,15,15,0,0,15,0,0,0,0,0
+"As a user, I can view flight tracks and how they overlay search area",25,0,25,25,0,25,0,0,0,25,0,0
+"As a user, i can view flight tracks over different base imagery (e.g., visible imagery to determine cloud vs. cloud-free)",25,0,25,25,0,25,0,0,0,0,0,0
+"As a user, I can Interactively view (in situ) measurements overlaid along the flight tracks (e.g. Flight Track Matchup)",25,0,25,0,0,0,0,0,0,0,0,0
+"As a user, I can interactively check values of measurements at any point along the flight tracks",25,0,25,0,0,0,0,0,0,25,0,0
+"As a user, I can compare measurements within the tool Original: Interactively view and compare time series of in situ measurements in a plot Also: As a user, I can visually and mathematically compare two separate variables.",25,25,25,0,0,0,25,0,0,25,25,0
+"As a user, I can visualize data from a curated list of locations on the map. Original: Interactively view common/popular field and flux tower sites of different research networks on a map.",25,0,0,0,0,0,25,0,0,0,25,0
+"As a user, I can customize an existing visualization",25,25,25,0,0,0,0,0,0,0,25,0
+"As a user, i can save my customizations so they persist between sessions",15,0,15,0,0,15,15,15,0,0,15,0
+"As a user, I can share my visualization with colleagues.",15,0,0,15,0,0,15,15,0,15,15,15
+"As a (logged in) user, I can view my visualization history.",15,15,0,0,0,0,15,0,0,0,15,0
+"As a user, I can view the manner in which the visualization was created",15,15,15,0,0,0,15,0,0,0,15,0
+"As a user, I can arrange the variables and their plots as I see fit.",15,0,15,0,0,0,0,0,0,0,15,0
+"As a user, I can generate a high resolution animation for presentations",25,0,0,0,0,0,0,0,0,0,25,25
+"As a user, I can download and save visualizations from the tool",25,0,0,25,0,0,0,0,0,0,25,25
+"As a user, I would like to display 'Event' layers (e.g. Near Real Time natural hazards layers) for the purpose of identifying areas of interest.",25,0,0,0,0,0,25,0,0,0,0,25
+"As a user, I can visualize data at different scales from different sources in an interactive plot.",25,0,25,25,0,0,0,0,0,0,25,0
+"As a user, I can analyze and interpret orbital ephemeris between products",25,0,0,0,0,0,25,0,0,0,0,0
+"As a user, I can view and download Summary Statistics for selected data",25,25,25,0,0,0,0,0,0,0,25,0
+As a user I can visualize data statistics,25,25,25,0,0,0,25,0,0,0,25,0
+As a user I can visualize data statistics for a single pixel,20,20,20,0,0,0,0,0,0,20,20,0
+The UI allows for data spatial subsetting transformations,25,25,0,15,0,0,0,25,0,0,25,0
+The UI allows for data spatial subsetting transformations via region,25,0,0,0,0,0,0,0,0,0,25,0
+The UI allows for data  temporal subsetting transformations?,25,25,25,25,0,0,0,25,0,0,25,0
+The UI allows for data  band/layer/variable subsetting transformations?,25,25,25,25,0,0,25,25,25,0,25,0
+The UI allows for data reprojection transformations,25,25,0,0,0,0,0,25,0,0,25,0
+The UI allows the reformatting of output files into other formats.,25,25,0,15,0,0,0,25,0,0,25,0
+The UI allows for data regridding (resampling) transformations,25,0,0,0,0,0,25,25,0,0,25,0
+The UI allows for data concatenation/aggregation transformations.,25,25,0,0,0,0,25,25,25,0,25,0
+Ability to bulk download customized output files,25,25,25,0,0,0,25,25,25,0,15,0
+"The UI provides the ability to identify and save (e.g. download, copy)  source data identifiers used to fulfill a request",20,20,20,0,0,0,20,20,20,0,20,0
+The UI allows for requesting coincident data transformations,20,20,0,0,0,0,0,20,20,0,0,0
+"As a user, I can view my transformation history",20,20,20,0,0,0,20,0,0,0,20,0
+"As a user, I can view my transformation status and progress",20,20,20,0,0,0,20,20,0,0,20,0
+"As a user, I can visualize my customized data within the UI (e.g. transformations applied)",20,0,20,0,0,0,20,0,0,0,20,0
+Ability to re-submit the exact same request,25,25,25,0,0,0,25,25,25,0,25,0
+Ability to broker transformation requests to conforming services providers,20,0,0,0,0,0,20,20,0,0,20,0
+Support for Standards: STAC,15,15,0,0,0,0,0,0,0,0,0,0
+"The UI provides access to data quality information- this may be through look up tables, masks, or user guides. originally: Data  are accompanied by the associated data quality information , decoded out of binary format into a human-readable explanation of the quality interpretation for an observation (Quality Lookup Tables provided)",15,15,0,15,0,0,15,15,0,0,15,0
+"As a data provider, I can create discipline-specific portals",20,0,0,0,20,0,0,20,20,0,20,0
+"As a user, I can customize my application experience",15,0,15,15,0,0,15,15,15,0,15,15
+Offer a formal citation for users to easily cite the tool in publications.,25,0,25,25,0,0,0,0,25,25,25,0
+The tool prevents users from applying incompatible combinations,25,0,25,25,0,0,25,25,25,0,25,25
+UI design is responsive (e.g. based on client type).,20,20,20,0,0,0,20,0,0,0,20,20
+UI is able to embed multi-media and embeddable apps,20,0,0,0,0,0,20,0,0,0,0,20
+"The candidate/tool can be easily embedded (i.e., without substantial modification) in a web page or application",25,0,25,0,25,0,0,0,0,0,25,25
+"As a user, I can make distance measurements on the map interface",15,0,15,0,0,0,0,0,0,0,0,15
+"As a user, I can make area measurements on the map interface",15,0,15,0,0,0,0,0,0,0,0,15
+"As a user, I can complete all tasks within the tool UX",20,20,20,20,0,0,20,20,20,20,20,0
+"As a user, I can access the service code via a companion jupyter notebook without leaving the tool UX.",20,0,0,20,0,0,0,0,0,0,0,0
+The tool is multilingual,25,0,0,0,0,0,25,0,0,0,0,0
+"As a user, I can deep-link to the app, maintaining the entire state",25,0,0,15,15,0,25,15,15,0,25,0

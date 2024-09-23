@@ -47,7 +47,7 @@ Visualize environmental indicators on a map and browse imagery,15,0,15,15,0,15,1
 "As a user, I can Interactively view (in situ) measurements overlaid along the flight tracks (e.g. Flight Track Matchup)",25,0,25,0,0,0,0,0,0,0,0,0
 "As a user, I can interactively check values of measurements at any point along the flight tracks",25,0,25,0,0,0,0,0,0,25,0,0
 "As a user, I can compare measurements within the tool Original: Interactively view and compare time series of in situ measurements in a plot Also: As a user, I can visually and mathematically compare two separate variables.",25,25,25,0,0,0,25,0,0,25,25,25
-"As a user, I can visualize data from a curated list of locations on the map. Original: Interactively view common/popular field and flux tower sites of different research networks on a map.",25,0,0,0,0,0,25,0,0,0,25,25
+"As a user, I can visualize data from a curated list of locations on the map. Original: Interactively view common/popular field and flux tower sites of different research networks on a map.",25,0,0,0,0,0,25,0,0,0,25,0
 "As a user, I can customize an existing visualization",25,25,25,0,0,0,25,0,0,0,25,25
 "As a user, i can save my customizations so they persist between sessions",15,0,15,0,0,15,15,15,0,0,15,15
 "As a user, I can share my visualization with colleagues.",15,0,0,15,0,0,15,15,0,15,15,15
@@ -62,21 +62,21 @@ Visualize environmental indicators on a map and browse imagery,15,0,15,15,0,15,1
 "As a user, I can view and download Summary Statistics for selected data",25,25,25,0,0,0,25,0,0,0,25,25
 As a user I can visualize data statistics,25,25,25,0,0,0,25,0,0,0,25,25
 As a user I can visualize data statistics for a single pixel,20,20,20,0,0,0,20,0,0,20,20,20
-The UI allows for data spatial subsetting transformations,25,25,0,15,0,0,25,25,0,0,25,5
-The UI allows for data spatial subsetting transformations via region,25,0,0,0,0,0,0,0,0,0,25,25
-The UI allows for data  temporal subsetting transformations?,25,25,25,25,0,0,25,25,0,0,25,25
+The UI allows for data spatial subsetting transformations,25,25,0,15,0,0,25,25,0,0,25,0
+The UI allows for data spatial subsetting transformations via region,25,0,0,0,0,0,0,0,0,0,25,0
+The UI allows for data  temporal subsetting transformations?,25,25,25,25,0,0,25,25,0,0,25,0
 The UI allows for data  band/layer/variable subsetting transformations?,25,25,25,25,0,0,25,25,25,0,25,0
-The UI allows for data reprojection transformations,25,25,0,0,0,0,0,25,0,0,25,15
-The UI allows the reformatting of output files into other formats.,25,25,0,15,0,0,0,25,0,0,25,25
-The UI allows for data regridding (resampling) transformations,25,0,0,0,0,0,25,25,0,0,25,25
-The UI allows for data concatenation/aggregation transformations.,25,25,0,0,0,0,25,25,25,0,25,25
-Ability to bulk download customized output files,25,25,25,0,0,0,25,25,25,0,15,15
+The UI allows for data reprojection transformations,25,25,0,0,0,0,0,25,0,0,25,0
+The UI allows the reformatting of output files into other formats.,25,25,0,15,0,0,0,25,0,0,25,0
+The UI allows for data regridding (resampling) transformations,25,0,0,0,0,0,25,25,0,0,25,0
+The UI allows for data concatenation/aggregation transformations.,25,25,0,0,0,0,25,25,25,0,25,0
+Ability to bulk download customized output files,25,25,25,0,0,0,25,25,25,0,15,0
 "The UI provides the ability to identify and save (e.g. download, copy)  source data identifiers used to fulfill a request",20,20,20,0,0,0,20,20,20,0,20,0
-The UI allows for requesting coincident data transformations,20,20,0,0,0,0,0,20,20,0,0,20
+The UI allows for requesting coincident data transformations,20,20,0,0,0,0,0,20,20,0,0,0
 "As a user, I can view my transformation history",20,20,20,0,0,0,20,0,0,0,20,0
 "As a user, I can view my transformation status and progress",20,20,20,0,0,0,20,20,0,0,20,0
-"As a user, I can visualize my customized data within the UI (e.g. transformations applied)",20,0,20,0,0,0,20,0,0,0,20,20
-Ability to re-submit the exact same request,25,25,25,0,0,0,25,25,25,0,25,25
+"As a user, I can visualize my customized data within the UI (e.g. transformations applied)",20,0,20,0,0,0,20,0,0,0,20,0
+Ability to re-submit the exact same request,25,25,25,0,0,0,25,25,25,0,25,0
 Ability to broker transformation requests to conforming services providers,20,0,0,0,0,0,20,20,0,0,20,0
 Support for Standards: STAC,15,15,0,0,0,0,0,0,0,0,0,0
 "The UI provides access to data quality information- this may be through look up tables, masks, or user guides. originally: Data  are accompanied by the associated data quality information , decoded out of binary format into a human-readable explanation of the quality interpretation for an observation (Quality Lookup Tables provided)",15,15,0,15,0,0,15,15,0,0,15,15

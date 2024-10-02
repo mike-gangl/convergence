@@ -1,0 +1,151 @@
+alternative,missing function
+AppEEARS,"As a user, available services (and valid date ranges, etc.) are dynamically listed based on my data and search selections."
+AppEEARS,Dynamically show numbers of files and total size for filter and subset options.
+AppEEARS,"As a user, I can visualize search result footprints on  a map"
+AppEEARS,The UI allows for data spatial subsetting transformations via region
+AppEEARS,The UI allows for data regridding (resampling) transformations
+AppEEARS,Ability to broker transformation requests to conforming services providers
+AppEEARS,Offer a formal citation for users to easily cite the tool in publications.
+AppEEARS,The tool prevents users from applying incompatible combinations
+AppEEARS,"The candidate/tool can be easily embedded (i.e., without substantial modification) in a web page or application"
+AppEEARS,"As a user, I can deep-link to the app, maintaining the entire state"
+Field_Campaign_Explorer_(FCX),"As a user, I can search and access NASA EOSDIS's available data holdings"
+Field_Campaign_Explorer_(FCX),"As a user, I can search data based on Geospatial areas"
+Field_Campaign_Explorer_(FCX),"As a user, I can search for data based on Temporal bounds"
+Field_Campaign_Explorer_(FCX),Search data by product ID (short name)
+Field_Campaign_Explorer_(FCX),"As a user, available services (and valid date ranges, etc.) are dynamically listed based on my data and search selections."
+Field_Campaign_Explorer_(FCX),Dynamically show numbers of files and total size for filter and subset options.
+Field_Campaign_Explorer_(FCX),"As a user, I can bulk download search data"
+Field_Campaign_Explorer_(FCX),The UI allows for data spatial subsetting transformations
+Field_Campaign_Explorer_(FCX),The UI allows for data spatial subsetting transformations via region
+Field_Campaign_Explorer_(FCX),The UI allows the reformatting of output files into other formats.
+Field_Campaign_Explorer_(FCX),The UI allows for data regridding (resampling) transformations
+Field_Campaign_Explorer_(FCX),The UI allows for data concatenation/aggregation transformations.
+Field_Campaign_Explorer_(FCX),Ability to broker transformation requests to conforming services providers
+Field_Campaign_Explorer_(FCX),"The UI provides access to data quality information- this may be through look up tables, masks, or user guides. originally: Data  are accompanied by the associated data quality information , decoded out of binary format into a human-readable explanation of the quality interpretation for an observation (Quality Lookup Tables provided)"
+Field_Campaign_Explorer_(FCX),"As a user, I can deep-link to the app, maintaining the entire state"
+OpenAltimetry,"As a user, I can search and access NASA EOSDIS's available data holdings"
+OpenAltimetry,"As a user, available services (and valid date ranges, etc.) are dynamically listed based on my data and search selections."
+OpenAltimetry,Dynamically show numbers of files and total size for filter and subset options.
+OpenAltimetry,"As a user, I can view and download Summary Statistics for selected data"
+OpenAltimetry,The UI allows for data spatial subsetting transformations
+OpenAltimetry,The UI allows for data spatial subsetting transformations via region
+OpenAltimetry,The UI allows the reformatting of output files into other formats.
+OpenAltimetry,The UI allows for data regridding (resampling) transformations
+OpenAltimetry,The UI allows for data concatenation/aggregation transformations.
+OpenAltimetry,Ability to bulk download customized output files
+OpenAltimetry,"The UI provides the ability to identify and save (e.g. download, copy)  source data identifiers used to fulfill a request"
+OpenAltimetry,"As a user, I can view my transformation status and progress"
+OpenAltimetry,Ability to re-submit the exact same request
+OpenAltimetry,Ability to broker transformation requests to conforming services providers
+OpenAltimetry,"The candidate/tool can be easily embedded (i.e., without substantial modification) in a web page or application"
+Data_Access_Tool,Search data by product ID (short name)
+Data_Access_Tool,"As a user, I can acquire data via S3 and/or https direct access in the Earthdata Cloud"
+Data_Access_Tool,"As a user, I can acquire data via public API"
+Data_Access_Tool,"As a user, I can visualize search result footprints on  a map"
+Data_Access_Tool,"As a user, I can view and download Summary Statistics for selected data"
+Data_Access_Tool,The UI allows for data spatial subsetting transformations
+Data_Access_Tool,The UI allows for data spatial subsetting transformations via region
+Data_Access_Tool,The UI allows for data  temporal subsetting transformations?
+Data_Access_Tool,The UI allows for data  band/layer/variable subsetting transformations?
+Data_Access_Tool,The UI allows the reformatting of output files into other formats.
+Data_Access_Tool,The UI allows for data regridding (resampling) transformations
+Data_Access_Tool,The UI allows for data concatenation/aggregation transformations.
+Data_Access_Tool,Ability to bulk download customized output files
+Data_Access_Tool,"The UI provides the ability to identify and save (e.g. download, copy)  source data identifiers used to fulfill a request"
+Data_Access_Tool,"As a user, I can view my transformation status and progress"
+Data_Access_Tool,Ability to re-submit the exact same request
+Data_Access_Tool,Ability to broker transformation requests to conforming services providers
+Data_Access_Tool,"The UI provides access to data quality information- this may be through look up tables, masks, or user guides. originally: Data  are accompanied by the associated data quality information , decoded out of binary format into a human-readable explanation of the quality interpretation for an observation (Quality Lookup Tables provided)"
+Data_Access_Tool,Offer a formal citation for users to easily cite the tool in publications.
+Data_Access_Tool,The tool prevents users from applying incompatible combinations
+Data_Access_Tool,"As a user, I can complete all tasks within the tool UX"
+Operation_IceBridge_Portal,"As a user, I can search data based on Geospatial areas"
+Operation_IceBridge_Portal,"As a user, available services (and valid date ranges, etc.) are dynamically listed based on my data and search selections."
+Operation_IceBridge_Portal,"As a user, I can acquire data via S3 and/or https direct access in the Earthdata Cloud"
+Operation_IceBridge_Portal,"As a user, I can acquire data via public API"
+Operation_IceBridge_Portal,"As a user, I can view and download Summary Statistics for selected data"
+Operation_IceBridge_Portal,The UI allows for data spatial subsetting transformations
+Operation_IceBridge_Portal,The UI allows for data spatial subsetting transformations via region
+Operation_IceBridge_Portal,The UI allows for data  temporal subsetting transformations?
+Operation_IceBridge_Portal,The UI allows for data  band/layer/variable subsetting transformations?
+Operation_IceBridge_Portal,The UI allows the reformatting of output files into other formats.
+Operation_IceBridge_Portal,The UI allows for data regridding (resampling) transformations
+Operation_IceBridge_Portal,The UI allows for data concatenation/aggregation transformations.
+Operation_IceBridge_Portal,Ability to bulk download customized output files
+Operation_IceBridge_Portal,"The UI provides the ability to identify and save (e.g. download, copy)  source data identifiers used to fulfill a request"
+Operation_IceBridge_Portal,"As a user, I can view my transformation status and progress"
+Operation_IceBridge_Portal,Ability to re-submit the exact same request
+Operation_IceBridge_Portal,Ability to broker transformation requests to conforming services providers
+Operation_IceBridge_Portal,"The UI provides access to data quality information- this may be through look up tables, masks, or user guides. originally: Data  are accompanied by the associated data quality information , decoded out of binary format into a human-readable explanation of the quality interpretation for an observation (Quality Lookup Tables provided)"
+Operation_IceBridge_Portal,Offer a formal citation for users to easily cite the tool in publications.
+Operation_IceBridge_Portal,The tool prevents users from applying incompatible combinations
+Operation_IceBridge_Portal,"The candidate/tool can be easily embedded (i.e., without substantial modification) in a web page or application"
+Operation_IceBridge_Portal,"As a user, I can complete all tasks within the tool UX"
+Operation_IceBridge_Portal,"As a user, I can deep-link to the app, maintaining the entire state"
+Vertex,The UI allows for data spatial subsetting transformations via region
+Vertex,The UI allows the reformatting of output files into other formats.
+Vertex,Offer a formal citation for users to easily cite the tool in publications.
+Vertex,"The candidate/tool can be easily embedded (i.e., without substantial modification) in a web page or application"
+Earthdata_Search,"As a user, I can view and download Summary Statistics for selected data"
+Earthdata_Search,The UI allows for data spatial subsetting transformations via region
+Earthdata_Search,Offer a formal citation for users to easily cite the tool in publications.
+Earthdata_Search,"The candidate/tool can be easily embedded (i.e., without substantial modification) in a web page or application"
+SOOT,"As a user, I can search data based on Geospatial areas"
+SOOT,"As a user, I can acquire data via S3 and/or https direct access in the Earthdata Cloud"
+SOOT,"As a user, I can acquire data via public API"
+SOOT,"As a user, I can visualize search result footprints on  a map"
+SOOT,"As a user, I can view and download Summary Statistics for selected data"
+SOOT,The UI allows for data spatial subsetting transformations
+SOOT,The UI allows for data spatial subsetting transformations via region
+SOOT,The UI allows for data  temporal subsetting transformations?
+SOOT,The UI allows the reformatting of output files into other formats.
+SOOT,The UI allows for data regridding (resampling) transformations
+SOOT,"As a user, I can view my transformation status and progress"
+SOOT,Ability to broker transformation requests to conforming services providers
+SOOT,"The UI provides access to data quality information- this may be through look up tables, masks, or user guides. originally: Data  are accompanied by the associated data quality information , decoded out of binary format into a human-readable explanation of the quality interpretation for an observation (Quality Lookup Tables provided)"
+SOOT,"The candidate/tool can be easily embedded (i.e., without substantial modification) in a web page or application"
+Airborne_Data_Visualizer,"As a user, I can search and access NASA EOSDIS's available data holdings"
+Airborne_Data_Visualizer,"As a user, I can search data based on Geospatial areas"
+Airborne_Data_Visualizer,Search data by product ID (short name)
+Airborne_Data_Visualizer,"As a user, available services (and valid date ranges, etc.) are dynamically listed based on my data and search selections."
+Airborne_Data_Visualizer,Dynamically show numbers of files and total size for filter and subset options.
+Airborne_Data_Visualizer,"As a user, I can bulk download search data"
+Airborne_Data_Visualizer,"As a user, I can acquire data via S3 and/or https direct access in the Earthdata Cloud"
+Airborne_Data_Visualizer,"As a user, I can view and download Summary Statistics for selected data"
+Airborne_Data_Visualizer,The UI allows for data spatial subsetting transformations
+Airborne_Data_Visualizer,The UI allows for data spatial subsetting transformations via region
+Airborne_Data_Visualizer,The UI allows for data  temporal subsetting transformations?
+Airborne_Data_Visualizer,The UI allows for data  band/layer/variable subsetting transformations?
+Airborne_Data_Visualizer,The UI allows the reformatting of output files into other formats.
+Airborne_Data_Visualizer,The UI allows for data regridding (resampling) transformations
+Airborne_Data_Visualizer,The UI allows for data concatenation/aggregation transformations.
+Airborne_Data_Visualizer,Ability to bulk download customized output files
+Airborne_Data_Visualizer,"The UI provides the ability to identify and save (e.g. download, copy)  source data identifiers used to fulfill a request"
+Airborne_Data_Visualizer,"As a user, I can view my transformation status and progress"
+Airborne_Data_Visualizer,Ability to re-submit the exact same request
+Airborne_Data_Visualizer,Ability to broker transformation requests to conforming services providers
+Airborne_Data_Visualizer,"The UI provides access to data quality information- this may be through look up tables, masks, or user guides. originally: Data  are accompanied by the associated data quality information , decoded out of binary format into a human-readable explanation of the quality interpretation for an observation (Quality Lookup Tables provided)"
+Airborne_Data_Visualizer,The tool prevents users from applying incompatible combinations
+Airborne_Data_Visualizer,"The candidate/tool can be easily embedded (i.e., without substantial modification) in a web page or application"
+Airborne_Data_Visualizer,"As a user, I can deep-link to the app, maintaining the entire state"
+Giovanni,"As a user, I can search for data based on Temporal bounds"
+Giovanni,"As a user, I can visualize search result footprints on  a map"
+Worldview,"As a user, I can search data based on Geospatial areas"
+Worldview,"As a user, I can search for data based on Temporal bounds"
+Worldview,"As a user, I can acquire data via direct download in the UI"
+Worldview,"As a user, I can bulk download search data"
+Worldview,"As a user, I can acquire data via S3 and/or https direct access in the Earthdata Cloud"
+Worldview,The UI allows for data spatial subsetting transformations
+Worldview,The UI allows for data spatial subsetting transformations via region
+Worldview,The UI allows for data  temporal subsetting transformations?
+Worldview,The UI allows for data  band/layer/variable subsetting transformations?
+Worldview,The UI allows the reformatting of output files into other formats.
+Worldview,The UI allows for data regridding (resampling) transformations
+Worldview,The UI allows for data concatenation/aggregation transformations.
+Worldview,Ability to bulk download customized output files
+Worldview,"The UI provides the ability to identify and save (e.g. download, copy)  source data identifiers used to fulfill a request"
+Worldview,"As a user, I can view my transformation status and progress"
+Worldview,Ability to re-submit the exact same request
+Worldview,Ability to broker transformation requests to conforming services providers
+Worldview,"As a user, I can complete all tasks within the tool UX"

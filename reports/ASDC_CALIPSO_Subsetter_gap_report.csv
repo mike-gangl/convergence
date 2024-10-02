@@ -1,0 +1,186 @@
+alternative,missing function
+AppEEARS,"As a user, I can refine my search results based on multiple criteria"
+AppEEARS,A curated list of locations is supplied to enable common or popular searches Originally: Search for data at common/popular field and flux tower sites
+AppEEARS,"As  a user, I can refine my search result based on the service/functionality selected"
+AppEEARS,"As a user, available services (and valid date ranges, etc.) are dynamically listed based on my data and search selections."
+AppEEARS,"As a user, I can visualize search result footprints on  a map"
+AppEEARS,"As a user, I can visualize search result browse imagery on a map"
+AppEEARS,"As a user, I can visualize search result quicklook imagery on  a map"
+AppEEARS,Visualize environmental indicators on a map and browse imagery
+AppEEARS,"As a user, I can view granule spatial bounds, quicklook, and browse imagery on a polar projection"
+AppEEARS,"As a user, I can visualize data in a cross-sectional or vertical profile"
+AppEEARS,"As a user, i can save my customizations so they persist between sessions"
+AppEEARS,"As a user, I can share my visualization with colleagues."
+AppEEARS,The UI allows for data spatial subsetting transformations via region
+AppEEARS,"As a data provider, I can create discipline-specific portals"
+AppEEARS,Offer a formal citation for users to easily cite the tool in publications.
+AppEEARS,The tool prevents users from applying incompatible combinations
+AppEEARS,"As a user, I can deep-link to the app, maintaining the entire state"
+Field_Campaign_Explorer_(FCX),Number of DAACs/SIPS from which data is accessed?
+Field_Campaign_Explorer_(FCX),"As a user, I can search and access NASA EOSDIS's available data holdings"
+Field_Campaign_Explorer_(FCX),"As a user, I can search data based on Geospatial areas"
+Field_Campaign_Explorer_(FCX),"As a user, I can search for data based on Temporal bounds"
+Field_Campaign_Explorer_(FCX),Search data by product ID (short name)
+Field_Campaign_Explorer_(FCX),"As a user, I can search for data variables based on keywords."
+Field_Campaign_Explorer_(FCX),"As a user, I can refine my search results based on multiple criteria"
+Field_Campaign_Explorer_(FCX),A curated list of locations is supplied to enable common or popular searches Originally: Search for data at common/popular field and flux tower sites
+Field_Campaign_Explorer_(FCX),"As  a user, I can refine my search result based on the service/functionality selected"
+Field_Campaign_Explorer_(FCX),"As a user, available services (and valid date ranges, etc.) are dynamically listed based on my data and search selections."
+Field_Campaign_Explorer_(FCX),Dynamically show numbers of files and total size for filter and subset options.
+Field_Campaign_Explorer_(FCX),"As a user, I can bulk download search data"
+Field_Campaign_Explorer_(FCX),"As a user, I can view granule spatial bounds, quicklook, and browse imagery on a polar projection"
+Field_Campaign_Explorer_(FCX),"As a user, I can share my visualization with colleagues."
+Field_Campaign_Explorer_(FCX),The UI allows for data spatial subsetting transformations
+Field_Campaign_Explorer_(FCX),The UI allows for data spatial subsetting transformations via region
+Field_Campaign_Explorer_(FCX),The UI allows for data reprojection transformations
+Field_Campaign_Explorer_(FCX),The UI allows the reformatting of output files into other formats.
+Field_Campaign_Explorer_(FCX),The UI allows for data concatenation/aggregation transformations.
+Field_Campaign_Explorer_(FCX),"As a data provider, I can create discipline-specific portals"
+Field_Campaign_Explorer_(FCX),"As a user, I can deep-link to the app, maintaining the entire state"
+OpenAltimetry,Number of DAACs/SIPS from which data is accessed?
+OpenAltimetry,"As a user, I can search for data variables based on keywords."
+OpenAltimetry,A curated list of locations is supplied to enable common or popular searches Originally: Search for data at common/popular field and flux tower sites
+OpenAltimetry,"As a user, available services (and valid date ranges, etc.) are dynamically listed based on my data and search selections."
+OpenAltimetry,Dynamically show numbers of files and total size for filter and subset options.
+OpenAltimetry,"As a user, I can visualize search result browse imagery on a map"
+OpenAltimetry,"As a user, I can visualize search result quicklook imagery on  a map"
+OpenAltimetry,"As a user, I can customize an existing visualization"
+OpenAltimetry,"As a user, i can save my customizations so they persist between sessions"
+OpenAltimetry,The UI allows for data spatial subsetting transformations via region
+OpenAltimetry,The UI allows for data reprojection transformations
+OpenAltimetry,The UI allows for data concatenation/aggregation transformations.
+OpenAltimetry,Ability to bulk download customized output files
+OpenAltimetry,Ability to re-submit the exact same request
+OpenAltimetry,"As a data provider, I can create discipline-specific portals"
+Data_Access_Tool,Number of DAACs/SIPS from which data is accessed?
+Data_Access_Tool,Search data by product ID (short name)
+Data_Access_Tool,"As a user, I can search for data variables based on keywords."
+Data_Access_Tool,A curated list of locations is supplied to enable common or popular searches Originally: Search for data at common/popular field and flux tower sites
+Data_Access_Tool,"As  a user, I can refine my search result based on the service/functionality selected"
+Data_Access_Tool,"As a user, I can acquire data via public API"
+Data_Access_Tool,"As a user, I can visualize search result footprints on  a map"
+Data_Access_Tool,"As a user, I can visualize search result browse imagery on a map"
+Data_Access_Tool,"As a user, I can visualize search result quicklook imagery on  a map"
+Data_Access_Tool,Visualize environmental indicators on a map and browse imagery
+Data_Access_Tool,"As a user, I can view granule spatial bounds, quicklook, and browse imagery on a polar projection"
+Data_Access_Tool,"As a user, I can visualize data in a cross-sectional or vertical profile"
+Data_Access_Tool,"As a user, I can visualize multiple data variables at once."
+Data_Access_Tool,"As a user, I can customize an existing visualization"
+Data_Access_Tool,"As a user, i can save my customizations so they persist between sessions"
+Data_Access_Tool,"As a user, I can share my visualization with colleagues."
+Data_Access_Tool,The UI allows for data spatial subsetting transformations
+Data_Access_Tool,The UI allows for data spatial subsetting transformations via region
+Data_Access_Tool,The UI allows for data  temporal subsetting transformations?
+Data_Access_Tool,The UI allows for data  band/layer/variable subsetting transformations?
+Data_Access_Tool,The UI allows for data reprojection transformations
+Data_Access_Tool,The UI allows the reformatting of output files into other formats.
+Data_Access_Tool,The UI allows for data concatenation/aggregation transformations.
+Data_Access_Tool,Ability to bulk download customized output files
+Data_Access_Tool,Ability to re-submit the exact same request
+Data_Access_Tool,Offer a formal citation for users to easily cite the tool in publications.
+Data_Access_Tool,The tool prevents users from applying incompatible combinations
+Data_Access_Tool,"As a user, I can complete all tasks within the tool UX"
+Operation_IceBridge_Portal,Number of DAACs/SIPS from which data is accessed?
+Operation_IceBridge_Portal,"As a user, I can search data based on Geospatial areas"
+Operation_IceBridge_Portal,"As a user, I can search for data variables based on keywords."
+Operation_IceBridge_Portal,A curated list of locations is supplied to enable common or popular searches Originally: Search for data at common/popular field and flux tower sites
+Operation_IceBridge_Portal,"As  a user, I can refine my search result based on the service/functionality selected"
+Operation_IceBridge_Portal,"As a user, available services (and valid date ranges, etc.) are dynamically listed based on my data and search selections."
+Operation_IceBridge_Portal,"As a user, I can acquire data via public API"
+Operation_IceBridge_Portal,"As a user, I can visualize search result browse imagery on a map"
+Operation_IceBridge_Portal,"As a user, I can visualize data in a cross-sectional or vertical profile"
+Operation_IceBridge_Portal,"As a user, I can visualize multiple data variables at once."
+Operation_IceBridge_Portal,"As a user, I can customize an existing visualization"
+Operation_IceBridge_Portal,"As a user, I can share my visualization with colleagues."
+Operation_IceBridge_Portal,The UI allows for data spatial subsetting transformations
+Operation_IceBridge_Portal,The UI allows for data spatial subsetting transformations via region
+Operation_IceBridge_Portal,The UI allows for data  temporal subsetting transformations?
+Operation_IceBridge_Portal,The UI allows for data  band/layer/variable subsetting transformations?
+Operation_IceBridge_Portal,The UI allows for data reprojection transformations
+Operation_IceBridge_Portal,The UI allows the reformatting of output files into other formats.
+Operation_IceBridge_Portal,The UI allows for data concatenation/aggregation transformations.
+Operation_IceBridge_Portal,Ability to bulk download customized output files
+Operation_IceBridge_Portal,Ability to re-submit the exact same request
+Operation_IceBridge_Portal,"As a data provider, I can create discipline-specific portals"
+Operation_IceBridge_Portal,Offer a formal citation for users to easily cite the tool in publications.
+Operation_IceBridge_Portal,The tool prevents users from applying incompatible combinations
+Operation_IceBridge_Portal,"As a user, I can complete all tasks within the tool UX"
+Operation_IceBridge_Portal,"As a user, I can deep-link to the app, maintaining the entire state"
+Vertex,Number of DAACs/SIPS from which data is accessed?
+Vertex,"As  a user, I can refine my search result based on the service/functionality selected"
+Vertex,The UI allows for data spatial subsetting transformations via region
+Vertex,The UI allows for data reprojection transformations
+Vertex,The UI allows the reformatting of output files into other formats.
+Vertex,"As a data provider, I can create discipline-specific portals"
+Vertex,Offer a formal citation for users to easily cite the tool in publications.
+Earthdata_Search,"As a user, I can visualize data in a cross-sectional or vertical profile"
+Earthdata_Search,"As a user, I can customize an existing visualization"
+Earthdata_Search,The UI allows for data spatial subsetting transformations via region
+Earthdata_Search,Offer a formal citation for users to easily cite the tool in publications.
+SOOT,Number of DAACs/SIPS from which data is accessed?
+SOOT,"As a user, I can search data based on Geospatial areas"
+SOOT,"As  a user, I can refine my search result based on the service/functionality selected"
+SOOT,"As a user, I can acquire data via public API"
+SOOT,"As a user, I can visualize search result footprints on  a map"
+SOOT,"As a user, I can visualize search result browse imagery on a map"
+SOOT,"As a user, I can visualize search result quicklook imagery on  a map"
+SOOT,Visualize environmental indicators on a map and browse imagery
+SOOT,"As a user, I can view granule spatial bounds, quicklook, and browse imagery on a polar projection"
+SOOT,"As a user, I can visualize data in a cross-sectional or vertical profile"
+SOOT,"As a user, I can visualize multiple data variables at once."
+SOOT,"As a user, I can customize an existing visualization"
+SOOT,"As a user, i can save my customizations so they persist between sessions"
+SOOT,"As a user, I can share my visualization with colleagues."
+SOOT,The UI allows for data spatial subsetting transformations
+SOOT,The UI allows for data spatial subsetting transformations via region
+SOOT,The UI allows for data  temporal subsetting transformations?
+SOOT,The UI allows for data reprojection transformations
+SOOT,The UI allows the reformatting of output files into other formats.
+Airborne_Data_Visualizer,Number of DAACs/SIPS from which data is accessed?
+Airborne_Data_Visualizer,"As a user, I can search data based on Geospatial areas"
+Airborne_Data_Visualizer,Search data by product ID (short name)
+Airborne_Data_Visualizer,"As a user, I can search for data variables based on keywords."
+Airborne_Data_Visualizer,"As a user, I can refine my search results based on multiple criteria"
+Airborne_Data_Visualizer,A curated list of locations is supplied to enable common or popular searches Originally: Search for data at common/popular field and flux tower sites
+Airborne_Data_Visualizer,"As  a user, I can refine my search result based on the service/functionality selected"
+Airborne_Data_Visualizer,"As a user, available services (and valid date ranges, etc.) are dynamically listed based on my data and search selections."
+Airborne_Data_Visualizer,Dynamically show numbers of files and total size for filter and subset options.
+Airborne_Data_Visualizer,"As a user, I can bulk download search data"
+Airborne_Data_Visualizer,Visualize environmental indicators on a map and browse imagery
+Airborne_Data_Visualizer,"As a user, I can view granule spatial bounds, quicklook, and browse imagery on a polar projection"
+Airborne_Data_Visualizer,"As a user, I can visualize data in a cross-sectional or vertical profile"
+Airborne_Data_Visualizer,"As a user, I can customize an existing visualization"
+Airborne_Data_Visualizer,"As a user, i can save my customizations so they persist between sessions"
+Airborne_Data_Visualizer,The UI allows for data spatial subsetting transformations
+Airborne_Data_Visualizer,The UI allows for data spatial subsetting transformations via region
+Airborne_Data_Visualizer,The UI allows for data  temporal subsetting transformations?
+Airborne_Data_Visualizer,The UI allows for data  band/layer/variable subsetting transformations?
+Airborne_Data_Visualizer,The UI allows for data reprojection transformations
+Airborne_Data_Visualizer,The UI allows the reformatting of output files into other formats.
+Airborne_Data_Visualizer,The UI allows for data concatenation/aggregation transformations.
+Airborne_Data_Visualizer,Ability to bulk download customized output files
+Airborne_Data_Visualizer,Ability to re-submit the exact same request
+Airborne_Data_Visualizer,"As a data provider, I can create discipline-specific portals"
+Airborne_Data_Visualizer,The tool prevents users from applying incompatible combinations
+Airborne_Data_Visualizer,"As a user, I can deep-link to the app, maintaining the entire state"
+Giovanni,"As a user, I can search for data based on Temporal bounds"
+Giovanni,"As a user, I can visualize search result footprints on  a map"
+Giovanni,"As a user, I can visualize search result browse imagery on a map"
+Worldview,"As a user, I can search data based on Geospatial areas"
+Worldview,"As a user, I can search for data based on Temporal bounds"
+Worldview,A curated list of locations is supplied to enable common or popular searches Originally: Search for data at common/popular field and flux tower sites
+Worldview,"As  a user, I can refine my search result based on the service/functionality selected"
+Worldview,"As a user, I can acquire data via direct download in the UI"
+Worldview,"As a user, I can bulk download search data"
+Worldview,"As a user, I can visualize search result quicklook imagery on  a map"
+Worldview,"As a user, I can visualize data in a cross-sectional or vertical profile"
+Worldview,The UI allows for data spatial subsetting transformations
+Worldview,The UI allows for data spatial subsetting transformations via region
+Worldview,The UI allows for data  temporal subsetting transformations?
+Worldview,The UI allows for data  band/layer/variable subsetting transformations?
+Worldview,The UI allows for data reprojection transformations
+Worldview,The UI allows the reformatting of output files into other formats.
+Worldview,The UI allows for data concatenation/aggregation transformations.
+Worldview,Ability to bulk download customized output files
+Worldview,Ability to re-submit the exact same request
+Worldview,"As a user, I can complete all tasks within the tool UX"

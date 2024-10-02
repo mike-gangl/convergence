@@ -1,0 +1,71 @@
+alternative,missing function
+AppEEARS,Search by criteria streamlined to use-based specific needs
+AppEEARS,"As a user, I can visualize data on an interactive map"
+AppEEARS,"As a user, I can visualize data from a curated list of locations on the map. Original: Interactively view common/popular field and flux tower sites of different research networks on a map."
+AppEEARS,Offer a formal citation for users to easily cite the tool in publications.
+AppEEARS,The tool prevents users from applying incompatible combinations
+Field_Campaign_Explorer_(FCX),"As a user, I can search and access NASA EOSDIS's available data holdings"
+Field_Campaign_Explorer_(FCX),"As a user, I can search data based on Geospatial areas"
+Field_Campaign_Explorer_(FCX),Search by criteria streamlined to use-based specific needs
+Field_Campaign_Explorer_(FCX),Dynamically show numbers of files and total size for filter and subset options.
+Field_Campaign_Explorer_(FCX),"As a user, I can bulk download search data"
+Field_Campaign_Explorer_(FCX),"As a user, I can visualize data from a curated list of locations on the map. Original: Interactively view common/popular field and flux tower sites of different research networks on a map."
+Field_Campaign_Explorer_(FCX),The UI allows for data spatial subsetting transformations
+Field_Campaign_Explorer_(FCX),The UI allows the reformatting of output files into other formats.
+OpenAltimetry,Does the tool provide access to non-DAAC / External provider data?
+OpenAltimetry,Dynamically show numbers of files and total size for filter and subset options.
+OpenAltimetry,"As a user, I can visualize data from a curated list of locations on the map. Original: Interactively view common/popular field and flux tower sites of different research networks on a map."
+OpenAltimetry,The UI allows the reformatting of output files into other formats.
+OpenAltimetry,Ability to bulk download customized output files
+Data_Access_Tool,Does the tool provide access to non-DAAC / External provider data?
+Data_Access_Tool,Search by criteria streamlined to use-based specific needs
+Data_Access_Tool,"As a user, I can bulk download search data"
+Data_Access_Tool,"As a user, I can visualize data on an interactive map"
+Data_Access_Tool,"As a user, I can visualize multiple data variables at once."
+Data_Access_Tool,"As a user, I can visualize data from a curated list of locations on the map. Original: Interactively view common/popular field and flux tower sites of different research networks on a map."
+Data_Access_Tool,The UI allows for data spatial subsetting transformations
+Data_Access_Tool,The UI allows the reformatting of output files into other formats.
+Data_Access_Tool,Ability to bulk download customized output files
+Data_Access_Tool,Offer a formal citation for users to easily cite the tool in publications.
+Data_Access_Tool,The tool prevents users from applying incompatible combinations
+Operation_IceBridge_Portal,Does the tool provide access to non-DAAC / External provider data?
+Operation_IceBridge_Portal,Search by criteria streamlined to use-based specific needs
+Operation_IceBridge_Portal,"As a user, I can bulk download search data"
+Operation_IceBridge_Portal,"As a user, I can visualize multiple data variables at once."
+Operation_IceBridge_Portal,"As a user, I can visualize data from a curated list of locations on the map. Original: Interactively view common/popular field and flux tower sites of different research networks on a map."
+Operation_IceBridge_Portal,The UI allows for data spatial subsetting transformations
+Operation_IceBridge_Portal,The UI allows the reformatting of output files into other formats.
+Operation_IceBridge_Portal,Ability to bulk download customized output files
+Operation_IceBridge_Portal,Offer a formal citation for users to easily cite the tool in publications.
+Operation_IceBridge_Portal,The tool prevents users from applying incompatible combinations
+Vertex,The UI allows the reformatting of output files into other formats.
+Vertex,Offer a formal citation for users to easily cite the tool in publications.
+Earthdata_Search,Search by criteria streamlined to use-based specific needs
+Earthdata_Search,"As a user, I can visualize data from a curated list of locations on the map. Original: Interactively view common/popular field and flux tower sites of different research networks on a map."
+Earthdata_Search,Offer a formal citation for users to easily cite the tool in publications.
+SOOT,Does the tool provide access to non-DAAC / External provider data?
+SOOT,Search by criteria streamlined to use-based specific needs
+SOOT,"As a user, I can visualize data on an interactive map"
+SOOT,"As a user, I can visualize multiple data variables at once."
+SOOT,"As a user, I can visualize data from a curated list of locations on the map. Original: Interactively view common/popular field and flux tower sites of different research networks on a map."
+SOOT,The UI allows for data spatial subsetting transformations
+SOOT,The UI allows the reformatting of output files into other formats.
+Airborne_Data_Visualizer,Does the tool provide access to non-DAAC / External provider data?
+Airborne_Data_Visualizer,"As a user, I can search data based on Geospatial areas"
+Airborne_Data_Visualizer,Search by criteria streamlined to use-based specific needs
+Airborne_Data_Visualizer,Dynamically show numbers of files and total size for filter and subset options.
+Airborne_Data_Visualizer,"As a user, I can bulk download search data"
+Airborne_Data_Visualizer,"As a user, I can visualize data from a curated list of locations on the map. Original: Interactively view common/popular field and flux tower sites of different research networks on a map."
+Airborne_Data_Visualizer,The UI allows for data spatial subsetting transformations
+Airborne_Data_Visualizer,The UI allows the reformatting of output files into other formats.
+Airborne_Data_Visualizer,Ability to bulk download customized output files
+Airborne_Data_Visualizer,The tool prevents users from applying incompatible combinations
+Giovanni,Does the tool provide access to non-DAAC / External provider data?
+Giovanni,Search by criteria streamlined to use-based specific needs
+Giovanni,Ability to bulk download customized output files
+Worldview,"As a user, I can acquire data via direct download in the UI"
+Worldview,"As a user, I can bulk download search data"
+Worldview,"As a user, I can visualize data from a curated list of locations on the map. Original: Interactively view common/popular field and flux tower sites of different research networks on a map."
+Worldview,The UI allows for data spatial subsetting transformations
+Worldview,The UI allows the reformatting of output files into other formats.
+Worldview,Ability to bulk download customized output files

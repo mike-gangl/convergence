@@ -1,0 +1,138 @@
+alternative,missing function
+AppEEARS,"As a user, I can refine my search results based on multiple criteria"
+AppEEARS,Candidate alternative (or tool) allows access of output via standard API(s)
+AppEEARS,"As a user, I can visualize data availability on a timeline"
+AppEEARS,"As a user, I can visualize data on an interactive map"
+AppEEARS,"As a user, I can share my visualization with colleagues."
+AppEEARS,"As a user, I can download and save visualizations from the tool"
+AppEEARS,The UI allows for data regridding (resampling) transformations
+AppEEARS,"As a data provider, I can create discipline-specific portals"
+AppEEARS,Offer a formal citation for users to easily cite the tool in publications.
+AppEEARS,"The candidate/tool can be easily embedded (i.e., without substantial modification) in a web page or application"
+AppEEARS,"As a user, I can deep-link to the app, maintaining the entire state"
+Field_Campaign_Explorer_(FCX),"As a user, I can search and access NASA EOSDIS's available data holdings"
+Field_Campaign_Explorer_(FCX),Search data by Mission
+Field_Campaign_Explorer_(FCX),"As a user, I can search for data based on keywords"
+Field_Campaign_Explorer_(FCX),"As a user, I can refine my search results based on multiple criteria"
+Field_Campaign_Explorer_(FCX),Dynamically show numbers of files and total size for filter and subset options.
+Field_Campaign_Explorer_(FCX),"As a user, I can share my search with colleagues."
+Field_Campaign_Explorer_(FCX),"As a user, I can bulk download search data"
+Field_Campaign_Explorer_(FCX),"As a user, I can share my visualization with colleagues."
+Field_Campaign_Explorer_(FCX),"As a user, I can download and save visualizations from the tool"
+Field_Campaign_Explorer_(FCX),The UI allows for data spatial subsetting transformations
+Field_Campaign_Explorer_(FCX),The UI allows for data reprojection transformations
+Field_Campaign_Explorer_(FCX),The UI allows the reformatting of output files into other formats.
+Field_Campaign_Explorer_(FCX),The UI allows for data regridding (resampling) transformations
+Field_Campaign_Explorer_(FCX),"As a data provider, I can create discipline-specific portals"
+Field_Campaign_Explorer_(FCX),"As a user, I can deep-link to the app, maintaining the entire state"
+OpenAltimetry,"As a user, I can search and access NASA EOSDIS's available data holdings"
+OpenAltimetry,"As a user, I can search for data based on keywords"
+OpenAltimetry,Dynamically show numbers of files and total size for filter and subset options.
+OpenAltimetry,Candidate alternative (or tool) allows access of output via standard API(s)
+OpenAltimetry,"As a user, I can customize an existing visualization"
+OpenAltimetry,The UI allows for data reprojection transformations
+OpenAltimetry,The UI allows the reformatting of output files into other formats.
+OpenAltimetry,The UI allows for data regridding (resampling) transformations
+OpenAltimetry,Ability to bulk download customized output files
+OpenAltimetry,Ability to re-submit the exact same request
+OpenAltimetry,"As a data provider, I can create discipline-specific portals"
+OpenAltimetry,"The candidate/tool can be easily embedded (i.e., without substantial modification) in a web page or application"
+Data_Access_Tool,Search data by Mission
+Data_Access_Tool,"As a user, I can search for data based on keywords"
+Data_Access_Tool,"As a user, I can share my search with colleagues."
+Data_Access_Tool,"As a user, I can acquire data via public API"
+Data_Access_Tool,Candidate alternative (or tool) allows access of output via standard API(s)
+Data_Access_Tool,"As a user, I can visualize data availability on a timeline"
+Data_Access_Tool,"As a user, I can visualize data on an interactive map"
+Data_Access_Tool,"As a user, I can customize an existing visualization"
+Data_Access_Tool,"As a user, I can share my visualization with colleagues."
+Data_Access_Tool,"As a user, I can download and save visualizations from the tool"
+Data_Access_Tool,The UI allows for data spatial subsetting transformations
+Data_Access_Tool,The UI allows for data  temporal subsetting transformations?
+Data_Access_Tool,The UI allows for data  band/layer/variable subsetting transformations?
+Data_Access_Tool,The UI allows for data reprojection transformations
+Data_Access_Tool,The UI allows the reformatting of output files into other formats.
+Data_Access_Tool,The UI allows for data regridding (resampling) transformations
+Data_Access_Tool,Ability to bulk download customized output files
+Data_Access_Tool,Ability to re-submit the exact same request
+Data_Access_Tool,Offer a formal citation for users to easily cite the tool in publications.
+Data_Access_Tool,"As a user, I can complete all tasks within the tool UX"
+Operation_IceBridge_Portal,Search data by Mission
+Operation_IceBridge_Portal,"As a user, I can search for data based on keywords"
+Operation_IceBridge_Portal,"As a user, I can share my search with colleagues."
+Operation_IceBridge_Portal,"As a user, I can acquire data via public API"
+Operation_IceBridge_Portal,Candidate alternative (or tool) allows access of output via standard API(s)
+Operation_IceBridge_Portal,"As a user, I can visualize data availability on a timeline"
+Operation_IceBridge_Portal,"As a user, I can customize an existing visualization"
+Operation_IceBridge_Portal,"As a user, I can share my visualization with colleagues."
+Operation_IceBridge_Portal,"As a user, I can download and save visualizations from the tool"
+Operation_IceBridge_Portal,The UI allows for data spatial subsetting transformations
+Operation_IceBridge_Portal,The UI allows for data  temporal subsetting transformations?
+Operation_IceBridge_Portal,The UI allows for data  band/layer/variable subsetting transformations?
+Operation_IceBridge_Portal,The UI allows for data reprojection transformations
+Operation_IceBridge_Portal,The UI allows the reformatting of output files into other formats.
+Operation_IceBridge_Portal,The UI allows for data regridding (resampling) transformations
+Operation_IceBridge_Portal,Ability to bulk download customized output files
+Operation_IceBridge_Portal,Ability to re-submit the exact same request
+Operation_IceBridge_Portal,"As a data provider, I can create discipline-specific portals"
+Operation_IceBridge_Portal,Offer a formal citation for users to easily cite the tool in publications.
+Operation_IceBridge_Portal,"The candidate/tool can be easily embedded (i.e., without substantial modification) in a web page or application"
+Operation_IceBridge_Portal,"As a user, I can complete all tasks within the tool UX"
+Operation_IceBridge_Portal,"As a user, I can deep-link to the app, maintaining the entire state"
+Vertex,"As a user, I can download and save visualizations from the tool"
+Vertex,The UI allows for data reprojection transformations
+Vertex,The UI allows the reformatting of output files into other formats.
+Vertex,"As a data provider, I can create discipline-specific portals"
+Vertex,Offer a formal citation for users to easily cite the tool in publications.
+Vertex,"The candidate/tool can be easily embedded (i.e., without substantial modification) in a web page or application"
+Earthdata_Search,Candidate alternative (or tool) allows access of output via standard API(s)
+Earthdata_Search,"As a user, I can customize an existing visualization"
+Earthdata_Search,"As a user, I can download and save visualizations from the tool"
+Earthdata_Search,Offer a formal citation for users to easily cite the tool in publications.
+Earthdata_Search,"The candidate/tool can be easily embedded (i.e., without substantial modification) in a web page or application"
+SOOT,"As a user, I can share my search with colleagues."
+SOOT,"As a user, I can acquire data via public API"
+SOOT,Candidate alternative (or tool) allows access of output via standard API(s)
+SOOT,"As a user, I can visualize data availability on a timeline"
+SOOT,"As a user, I can visualize data on an interactive map"
+SOOT,"As a user, I can customize an existing visualization"
+SOOT,"As a user, I can share my visualization with colleagues."
+SOOT,"As a user, I can download and save visualizations from the tool"
+SOOT,The UI allows for data spatial subsetting transformations
+SOOT,The UI allows for data  temporal subsetting transformations?
+SOOT,The UI allows for data reprojection transformations
+SOOT,The UI allows the reformatting of output files into other formats.
+SOOT,The UI allows for data regridding (resampling) transformations
+SOOT,"The candidate/tool can be easily embedded (i.e., without substantial modification) in a web page or application"
+Airborne_Data_Visualizer,"As a user, I can search and access NASA EOSDIS's available data holdings"
+Airborne_Data_Visualizer,Search data by Mission
+Airborne_Data_Visualizer,"As a user, I can search for data based on keywords"
+Airborne_Data_Visualizer,"As a user, I can refine my search results based on multiple criteria"
+Airborne_Data_Visualizer,Dynamically show numbers of files and total size for filter and subset options.
+Airborne_Data_Visualizer,"As a user, I can bulk download search data"
+Airborne_Data_Visualizer,Candidate alternative (or tool) allows access of output via standard API(s)
+Airborne_Data_Visualizer,"As a user, I can visualize data availability on a timeline"
+Airborne_Data_Visualizer,"As a user, I can customize an existing visualization"
+Airborne_Data_Visualizer,"As a user, I can download and save visualizations from the tool"
+Airborne_Data_Visualizer,The UI allows for data spatial subsetting transformations
+Airborne_Data_Visualizer,The UI allows for data  temporal subsetting transformations?
+Airborne_Data_Visualizer,The UI allows for data  band/layer/variable subsetting transformations?
+Airborne_Data_Visualizer,The UI allows for data reprojection transformations
+Airborne_Data_Visualizer,The UI allows the reformatting of output files into other formats.
+Airborne_Data_Visualizer,The UI allows for data regridding (resampling) transformations
+Airborne_Data_Visualizer,Ability to bulk download customized output files
+Airborne_Data_Visualizer,Ability to re-submit the exact same request
+Airborne_Data_Visualizer,"As a data provider, I can create discipline-specific portals"
+Airborne_Data_Visualizer,"The candidate/tool can be easily embedded (i.e., without substantial modification) in a web page or application"
+Airborne_Data_Visualizer,"As a user, I can deep-link to the app, maintaining the entire state"
+Worldview,"As a user, I can acquire data via direct download in the UI"
+Worldview,"As a user, I can bulk download search data"
+Worldview,The UI allows for data spatial subsetting transformations
+Worldview,The UI allows for data  temporal subsetting transformations?
+Worldview,The UI allows for data  band/layer/variable subsetting transformations?
+Worldview,The UI allows for data reprojection transformations
+Worldview,The UI allows the reformatting of output files into other formats.
+Worldview,The UI allows for data regridding (resampling) transformations
+Worldview,Ability to bulk download customized output files
+Worldview,Ability to re-submit the exact same request
+Worldview,"As a user, I can complete all tasks within the tool UX"

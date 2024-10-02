@@ -1,0 +1,97 @@
+alternative,missing function
+AppEEARS,Search data by Instrument
+AppEEARS,Search by Principal Investigator (PI)
+AppEEARS,"As a user, I can refine my search results based on multiple criteria"
+AppEEARS,A curated list of locations is supplied to enable common or popular searches Originally: Search for data at common/popular field and flux tower sites
+AppEEARS,Candidate alternative (or tool) allows access of output via standard API(s)
+AppEEARS,Ability to broker transformation requests to conforming services providers
+AppEEARS,"As a user, I can customize my application experience"
+AppEEARS,The tool prevents users from applying incompatible combinations
+AppEEARS,UI is able to embed multi-media and embeddable apps
+Field_Campaign_Explorer_(FCX),"As a user, I can search and access NASA EOSDIS's available data holdings"
+Field_Campaign_Explorer_(FCX),Search data by product ID (short name)
+Field_Campaign_Explorer_(FCX),Search data by Instrument
+Field_Campaign_Explorer_(FCX),Search data by Mission
+Field_Campaign_Explorer_(FCX),Search by Principal Investigator (PI)
+Field_Campaign_Explorer_(FCX),"As a user, I can search for data based on keywords"
+Field_Campaign_Explorer_(FCX),"As a user, I can search for data variables based on keywords."
+Field_Campaign_Explorer_(FCX),"As a user, I can refine my search results based on multiple criteria"
+Field_Campaign_Explorer_(FCX),A curated list of locations is supplied to enable common or popular searches Originally: Search for data at common/popular field and flux tower sites
+Field_Campaign_Explorer_(FCX),"As a user, I can share my search with colleagues."
+Field_Campaign_Explorer_(FCX),Ability to broker transformation requests to conforming services providers
+Field_Campaign_Explorer_(FCX),UI is able to embed multi-media and embeddable apps
+OpenAltimetry,"As a user, I can search and access NASA EOSDIS's available data holdings"
+OpenAltimetry,Search data by Instrument
+OpenAltimetry,Search by Principal Investigator (PI)
+OpenAltimetry,"As a user, I can search for data based on keywords"
+OpenAltimetry,"As a user, I can search for data variables based on keywords."
+OpenAltimetry,A curated list of locations is supplied to enable common or popular searches Originally: Search for data at common/popular field and flux tower sites
+OpenAltimetry,Candidate alternative (or tool) allows access of output via standard API(s)
+OpenAltimetry,Ability to bulk download customized output files
+OpenAltimetry,Ability to re-submit the exact same request
+OpenAltimetry,Ability to broker transformation requests to conforming services providers
+OpenAltimetry,UI is able to embed multi-media and embeddable apps
+Data_Access_Tool,Search data by product ID (short name)
+Data_Access_Tool,Search data by Instrument
+Data_Access_Tool,Search data by Mission
+Data_Access_Tool,Search by Principal Investigator (PI)
+Data_Access_Tool,"As a user, I can search for data based on keywords"
+Data_Access_Tool,"As a user, I can search for data variables based on keywords."
+Data_Access_Tool,A curated list of locations is supplied to enable common or popular searches Originally: Search for data at common/popular field and flux tower sites
+Data_Access_Tool,"As a user, I can share my search with colleagues."
+Data_Access_Tool,Candidate alternative (or tool) allows access of output via standard API(s)
+Data_Access_Tool,Ability to bulk download customized output files
+Data_Access_Tool,Ability to re-submit the exact same request
+Data_Access_Tool,Ability to broker transformation requests to conforming services providers
+Data_Access_Tool,"As a user, I can customize my application experience"
+Data_Access_Tool,The tool prevents users from applying incompatible combinations
+Data_Access_Tool,UI is able to embed multi-media and embeddable apps
+Data_Access_Tool,"As a user, I can complete all tasks within the tool UX"
+Operation_IceBridge_Portal,Search data by Instrument
+Operation_IceBridge_Portal,Search data by Mission
+Operation_IceBridge_Portal,Search by Principal Investigator (PI)
+Operation_IceBridge_Portal,"As a user, I can search for data based on keywords"
+Operation_IceBridge_Portal,"As a user, I can search for data variables based on keywords."
+Operation_IceBridge_Portal,A curated list of locations is supplied to enable common or popular searches Originally: Search for data at common/popular field and flux tower sites
+Operation_IceBridge_Portal,"As a user, I can share my search with colleagues."
+Operation_IceBridge_Portal,Candidate alternative (or tool) allows access of output via standard API(s)
+Operation_IceBridge_Portal,Ability to bulk download customized output files
+Operation_IceBridge_Portal,Ability to re-submit the exact same request
+Operation_IceBridge_Portal,Ability to broker transformation requests to conforming services providers
+Operation_IceBridge_Portal,"As a user, I can customize my application experience"
+Operation_IceBridge_Portal,The tool prevents users from applying incompatible combinations
+Operation_IceBridge_Portal,UI is able to embed multi-media and embeddable apps
+Operation_IceBridge_Portal,"As a user, I can complete all tasks within the tool UX"
+Vertex,Search by Principal Investigator (PI)
+Earthdata_Search,Search by Principal Investigator (PI)
+Earthdata_Search,Candidate alternative (or tool) allows access of output via standard API(s)
+Earthdata_Search,UI is able to embed multi-media and embeddable apps
+SOOT,"As a user, I can share my search with colleagues."
+SOOT,Candidate alternative (or tool) allows access of output via standard API(s)
+SOOT,Ability to broker transformation requests to conforming services providers
+SOOT,UI is able to embed multi-media and embeddable apps
+Airborne_Data_Visualizer,"As a user, I can search and access NASA EOSDIS's available data holdings"
+Airborne_Data_Visualizer,Search data by product ID (short name)
+Airborne_Data_Visualizer,Search data by Instrument
+Airborne_Data_Visualizer,Search data by Mission
+Airborne_Data_Visualizer,Search by Principal Investigator (PI)
+Airborne_Data_Visualizer,"As a user, I can search for data based on keywords"
+Airborne_Data_Visualizer,"As a user, I can search for data variables based on keywords."
+Airborne_Data_Visualizer,"As a user, I can refine my search results based on multiple criteria"
+Airborne_Data_Visualizer,A curated list of locations is supplied to enable common or popular searches Originally: Search for data at common/popular field and flux tower sites
+Airborne_Data_Visualizer,Candidate alternative (or tool) allows access of output via standard API(s)
+Airborne_Data_Visualizer,Ability to bulk download customized output files
+Airborne_Data_Visualizer,Ability to re-submit the exact same request
+Airborne_Data_Visualizer,Ability to broker transformation requests to conforming services providers
+Airborne_Data_Visualizer,"As a user, I can customize my application experience"
+Airborne_Data_Visualizer,The tool prevents users from applying incompatible combinations
+Airborne_Data_Visualizer,UI is able to embed multi-media and embeddable apps
+Giovanni,Search by Principal Investigator (PI)
+Giovanni,Ability to bulk download customized output files
+Giovanni,UI is able to embed multi-media and embeddable apps
+Worldview,Search by Principal Investigator (PI)
+Worldview,A curated list of locations is supplied to enable common or popular searches Originally: Search for data at common/popular field and flux tower sites
+Worldview,Ability to bulk download customized output files
+Worldview,Ability to re-submit the exact same request
+Worldview,Ability to broker transformation requests to conforming services providers
+Worldview,"As a user, I can complete all tasks within the tool UX"

@@ -1,0 +1,81 @@
+alternative,missing function
+AppEEARS,Number of DAACs/SIPS from which data is accessed?
+AppEEARS,Search data by Campaign (e.g flight)
+AppEEARS,Search data by Instrument
+AppEEARS,"As a user, I can refine my search results based on multiple criteria"
+AppEEARS,"As a user, available services (and valid date ranges, etc.) are dynamically listed based on my data and search selections."
+AppEEARS,Dynamically show numbers of files and total size for filter and subset options.
+Field_Campaign_Explorer_(FCX),Number of DAACs/SIPS from which data is accessed?
+Field_Campaign_Explorer_(FCX),"As a user, I can search and access NASA EOSDIS's available data holdings"
+Field_Campaign_Explorer_(FCX),"As a user, I can search data based on Geospatial areas"
+Field_Campaign_Explorer_(FCX),"As a user, I can search for data based on Temporal bounds"
+Field_Campaign_Explorer_(FCX),Search data by product ID (short name)
+Field_Campaign_Explorer_(FCX),Search data by Campaign (e.g flight)
+Field_Campaign_Explorer_(FCX),Search data by Instrument
+Field_Campaign_Explorer_(FCX),Search data by Mission
+Field_Campaign_Explorer_(FCX),"As a user, I can search for data based on keywords"
+Field_Campaign_Explorer_(FCX),"As a user, I can refine my search results based on multiple criteria"
+Field_Campaign_Explorer_(FCX),"As a user, available services (and valid date ranges, etc.) are dynamically listed based on my data and search selections."
+Field_Campaign_Explorer_(FCX),Dynamically show numbers of files and total size for filter and subset options.
+Field_Campaign_Explorer_(FCX),"As a user, I can share my search with colleagues."
+Field_Campaign_Explorer_(FCX),"The UI provides access to data quality information- this may be through look up tables, masks, or user guides. originally: Data  are accompanied by the associated data quality information , decoded out of binary format into a human-readable explanation of the quality interpretation for an observation (Quality Lookup Tables provided)"
+OpenAltimetry,Number of DAACs/SIPS from which data is accessed?
+OpenAltimetry,"As a user, I can search and access NASA EOSDIS's available data holdings"
+OpenAltimetry,Search data by Campaign (e.g flight)
+OpenAltimetry,Search data by Instrument
+OpenAltimetry,"As a user, I can search for data based on keywords"
+OpenAltimetry,"As a user, available services (and valid date ranges, etc.) are dynamically listed based on my data and search selections."
+OpenAltimetry,Dynamically show numbers of files and total size for filter and subset options.
+OpenAltimetry,UI design is responsive (e.g. based on client type).
+Data_Access_Tool,Number of DAACs/SIPS from which data is accessed?
+Data_Access_Tool,Search data by product ID (short name)
+Data_Access_Tool,Search data by Campaign (e.g flight)
+Data_Access_Tool,Search data by Instrument
+Data_Access_Tool,Search data by Mission
+Data_Access_Tool,"As a user, I can search for data based on keywords"
+Data_Access_Tool,"As a user, I can share my search with colleagues."
+Data_Access_Tool,"As a user, I can acquire data via S3 and/or https direct access in the Earthdata Cloud"
+Data_Access_Tool,"As a user, I can acquire data via public API"
+Data_Access_Tool,"The UI provides access to data quality information- this may be through look up tables, masks, or user guides. originally: Data  are accompanied by the associated data quality information , decoded out of binary format into a human-readable explanation of the quality interpretation for an observation (Quality Lookup Tables provided)"
+Data_Access_Tool,UI design is responsive (e.g. based on client type).
+Operation_IceBridge_Portal,Number of DAACs/SIPS from which data is accessed?
+Operation_IceBridge_Portal,Search data by Campaign (e.g flight)
+Operation_IceBridge_Portal,Search data by Instrument
+Operation_IceBridge_Portal,Search data by Mission
+Operation_IceBridge_Portal,"As a user, I can search for data based on keywords"
+Operation_IceBridge_Portal,"As a user, available services (and valid date ranges, etc.) are dynamically listed based on my data and search selections."
+Operation_IceBridge_Portal,"As a user, I can share my search with colleagues."
+Operation_IceBridge_Portal,"As a user, I can acquire data via S3 and/or https direct access in the Earthdata Cloud"
+Operation_IceBridge_Portal,"As a user, I can acquire data via public API"
+Operation_IceBridge_Portal,"The UI provides access to data quality information- this may be through look up tables, masks, or user guides. originally: Data  are accompanied by the associated data quality information , decoded out of binary format into a human-readable explanation of the quality interpretation for an observation (Quality Lookup Tables provided)"
+Operation_IceBridge_Portal,UI design is responsive (e.g. based on client type).
+Vertex,Number of DAACs/SIPS from which data is accessed?
+Earthdata_Search,UI design is responsive (e.g. based on client type).
+SOOT,Number of DAACs/SIPS from which data is accessed?
+SOOT,"As a user, I can search and access NASA EOSDIS's available data holdings"
+SOOT,"As a user, I can share my search with colleagues."
+SOOT,"As a user, I can acquire data via S3 and/or https direct access in the Earthdata Cloud"
+SOOT,"As a user, I can acquire data via public API"
+SOOT,"The UI provides access to data quality information- this may be through look up tables, masks, or user guides. originally: Data  are accompanied by the associated data quality information , decoded out of binary format into a human-readable explanation of the quality interpretation for an observation (Quality Lookup Tables provided)"
+SOOT,UI design is responsive (e.g. based on client type).
+Airborne_Data_Visualizer,Number of DAACs/SIPS from which data is accessed?
+Airborne_Data_Visualizer,"As a user, I can search and access NASA EOSDIS's available data holdings"
+Airborne_Data_Visualizer,"As a user, I can search data based on Geospatial areas"
+Airborne_Data_Visualizer,Search data by product ID (short name)
+Airborne_Data_Visualizer,Search data by Instrument
+Airborne_Data_Visualizer,Search data by Mission
+Airborne_Data_Visualizer,"As a user, I can search for data based on keywords"
+Airborne_Data_Visualizer,"As a user, I can refine my search results based on multiple criteria"
+Airborne_Data_Visualizer,"As a user, available services (and valid date ranges, etc.) are dynamically listed based on my data and search selections."
+Airborne_Data_Visualizer,Dynamically show numbers of files and total size for filter and subset options.
+Airborne_Data_Visualizer,"As a user, I can acquire data via S3 and/or https direct access in the Earthdata Cloud"
+Airborne_Data_Visualizer,"The UI provides access to data quality information- this may be through look up tables, masks, or user guides. originally: Data  are accompanied by the associated data quality information , decoded out of binary format into a human-readable explanation of the quality interpretation for an observation (Quality Lookup Tables provided)"
+Airborne_Data_Visualizer,UI design is responsive (e.g. based on client type).
+Giovanni,"As a user, I can search and access NASA EOSDIS's available data holdings"
+Giovanni,"As a user, I can search for data based on Temporal bounds"
+Giovanni,Search data by Campaign (e.g flight)
+Worldview,"As a user, I can search and access NASA EOSDIS's available data holdings"
+Worldview,"As a user, I can search for data based on Temporal bounds"
+Worldview,Search data by Campaign (e.g flight)
+Worldview,"As a user, I can acquire data via direct download in the UI"
+Worldview,"As a user, I can acquire data via S3 and/or https direct access in the Earthdata Cloud"

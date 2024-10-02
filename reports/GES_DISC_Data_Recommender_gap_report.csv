@@ -1,0 +1,67 @@
+alternative,missing function
+AppEEARS,Number of DAACs/SIPS from which data is accessed?
+AppEEARS,Search data by Instrument
+AppEEARS,"As a user, the tool provides dataset specific ""find similar data"" functionality."
+AppEEARS,Candidate alternative (or tool) allows access of output via standard API(s)
+AppEEARS,"The candidate/tool can be easily embedded (i.e., without substantial modification) in a web page or application"
+Field_Campaign_Explorer_(FCX),Number of DAACs/SIPS from which data is accessed?
+Field_Campaign_Explorer_(FCX),"As a user, I can search and access NASA EOSDIS's available data holdings"
+Field_Campaign_Explorer_(FCX),Search data by product ID (short name)
+Field_Campaign_Explorer_(FCX),Search data by Instrument
+Field_Campaign_Explorer_(FCX),Search data by Mission
+Field_Campaign_Explorer_(FCX),"As a user, I can search for data based on keywords"
+Field_Campaign_Explorer_(FCX),"As a user, the tool provides dataset specific ""find similar data"" functionality."
+OpenAltimetry,Number of DAACs/SIPS from which data is accessed?
+OpenAltimetry,Does the tool provide access to non-DAAC / External provider data?
+OpenAltimetry,"As a user, I can search and access NASA EOSDIS's available data holdings"
+OpenAltimetry,Search data by Instrument
+OpenAltimetry,"As a user, I can search for data based on keywords"
+OpenAltimetry,"As a user, the tool provides dataset specific ""find similar data"" functionality."
+OpenAltimetry,Candidate alternative (or tool) allows access of output via standard API(s)
+OpenAltimetry,Ability to re-submit the exact same request
+OpenAltimetry,"The candidate/tool can be easily embedded (i.e., without substantial modification) in a web page or application"
+Data_Access_Tool,Number of DAACs/SIPS from which data is accessed?
+Data_Access_Tool,Does the tool provide access to non-DAAC / External provider data?
+Data_Access_Tool,Search data by product ID (short name)
+Data_Access_Tool,Search data by Instrument
+Data_Access_Tool,Search data by Mission
+Data_Access_Tool,"As a user, I can search for data based on keywords"
+Data_Access_Tool,"As a user, the tool provides dataset specific ""find similar data"" functionality."
+Data_Access_Tool,"As a user, I can acquire data via public API"
+Data_Access_Tool,Candidate alternative (or tool) allows access of output via standard API(s)
+Data_Access_Tool,Ability to re-submit the exact same request
+Operation_IceBridge_Portal,Number of DAACs/SIPS from which data is accessed?
+Operation_IceBridge_Portal,Does the tool provide access to non-DAAC / External provider data?
+Operation_IceBridge_Portal,Search data by Instrument
+Operation_IceBridge_Portal,Search data by Mission
+Operation_IceBridge_Portal,"As a user, I can search for data based on keywords"
+Operation_IceBridge_Portal,"As a user, the tool provides dataset specific ""find similar data"" functionality."
+Operation_IceBridge_Portal,"As a user, I can acquire data via public API"
+Operation_IceBridge_Portal,Candidate alternative (or tool) allows access of output via standard API(s)
+Operation_IceBridge_Portal,Ability to re-submit the exact same request
+Operation_IceBridge_Portal,"The candidate/tool can be easily embedded (i.e., without substantial modification) in a web page or application"
+Vertex,Number of DAACs/SIPS from which data is accessed?
+Vertex,"The candidate/tool can be easily embedded (i.e., without substantial modification) in a web page or application"
+Earthdata_Search,Candidate alternative (or tool) allows access of output via standard API(s)
+Earthdata_Search,"The candidate/tool can be easily embedded (i.e., without substantial modification) in a web page or application"
+SOOT,Number of DAACs/SIPS from which data is accessed?
+SOOT,Does the tool provide access to non-DAAC / External provider data?
+SOOT,"As a user, the tool provides dataset specific ""find similar data"" functionality."
+SOOT,"As a user, I can acquire data via public API"
+SOOT,Candidate alternative (or tool) allows access of output via standard API(s)
+SOOT,"The candidate/tool can be easily embedded (i.e., without substantial modification) in a web page or application"
+Airborne_Data_Visualizer,Number of DAACs/SIPS from which data is accessed?
+Airborne_Data_Visualizer,Does the tool provide access to non-DAAC / External provider data?
+Airborne_Data_Visualizer,"As a user, I can search and access NASA EOSDIS's available data holdings"
+Airborne_Data_Visualizer,Search data by product ID (short name)
+Airborne_Data_Visualizer,Search data by Instrument
+Airborne_Data_Visualizer,Search data by Mission
+Airborne_Data_Visualizer,"As a user, I can search for data based on keywords"
+Airborne_Data_Visualizer,"As a user, the tool provides dataset specific ""find similar data"" functionality."
+Airborne_Data_Visualizer,Candidate alternative (or tool) allows access of output via standard API(s)
+Airborne_Data_Visualizer,Ability to re-submit the exact same request
+Airborne_Data_Visualizer,"The candidate/tool can be easily embedded (i.e., without substantial modification) in a web page or application"
+Giovanni,Does the tool provide access to non-DAAC / External provider data?
+Giovanni,"As a user, the tool provides dataset specific ""find similar data"" functionality."
+Worldview,"As a user, the tool provides dataset specific ""find similar data"" functionality."
+Worldview,Ability to re-submit the exact same request

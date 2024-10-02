@@ -1,0 +1,262 @@
+alternative,missing function
+AppEEARS,Search by criteria streamlined to use-based specific needs
+AppEEARS,A curated list of locations is supplied to enable common or popular searches Originally: Search for data at common/popular field and flux tower sites
+AppEEARS,"As a user, available services (and valid date ranges, etc.) are dynamically listed based on my data and search selections."
+AppEEARS,Visualize environmental indicators on a map and browse imagery
+AppEEARS,"As a user, I can visualize data availability on a timeline"
+AppEEARS,"As a user, I can visualize data on an interactive map"
+AppEEARS,"As a user, I can visualize data from a curated list of locations on the map. Original: Interactively view common/popular field and flux tower sites of different research networks on a map."
+AppEEARS,"As a user, I can share my visualization with colleagues."
+AppEEARS,"As a user, I can generate a high resolution animation for presentations"
+AppEEARS,"As a user, I can download and save visualizations from the tool"
+AppEEARS,The UI allows for data spatial subsetting transformations via region
+AppEEARS,"As a user, I can visualize my customized data within the UI (e.g. transformations applied)"
+AppEEARS,Offer a formal citation for users to easily cite the tool in publications.
+AppEEARS,The tool prevents users from applying incompatible combinations
+Field_Campaign_Explorer_(FCX),Number of DAACs/SIPS from which data is accessed?
+Field_Campaign_Explorer_(FCX),"As a user, I can search and access NASA EOSDIS's available data holdings"
+Field_Campaign_Explorer_(FCX),"As a user, I can search data based on Geospatial areas"
+Field_Campaign_Explorer_(FCX),"As a user, I can search for data based on Temporal bounds"
+Field_Campaign_Explorer_(FCX),Search data by product ID (short name)
+Field_Campaign_Explorer_(FCX),Search by criteria streamlined to use-based specific needs
+Field_Campaign_Explorer_(FCX),"As a user, I can search for data based on keywords"
+Field_Campaign_Explorer_(FCX),"As a user, I can search for data variables based on keywords."
+Field_Campaign_Explorer_(FCX),A curated list of locations is supplied to enable common or popular searches Originally: Search for data at common/popular field and flux tower sites
+Field_Campaign_Explorer_(FCX),"As a user, available services (and valid date ranges, etc.) are dynamically listed based on my data and search selections."
+Field_Campaign_Explorer_(FCX),"As a user, I can share my search with colleagues."
+Field_Campaign_Explorer_(FCX),"As a user, i can view historical searches"
+Field_Campaign_Explorer_(FCX),"As a user, I can bulk download search data"
+Field_Campaign_Explorer_(FCX),"As a user, I can visualize data from a curated list of locations on the map. Original: Interactively view common/popular field and flux tower sites of different research networks on a map."
+Field_Campaign_Explorer_(FCX),"As a user, I can share my visualization with colleagues."
+Field_Campaign_Explorer_(FCX),"As a (logged in) user, I can view my visualization history."
+Field_Campaign_Explorer_(FCX),"As a user, I can generate a high resolution animation for presentations"
+Field_Campaign_Explorer_(FCX),"As a user, I can download and save visualizations from the tool"
+Field_Campaign_Explorer_(FCX),The UI allows for data spatial subsetting transformations
+Field_Campaign_Explorer_(FCX),The UI allows for data spatial subsetting transformations via region
+Field_Campaign_Explorer_(FCX),The UI allows for data reprojection transformations
+Field_Campaign_Explorer_(FCX),The UI allows the reformatting of output files into other formats.
+Field_Campaign_Explorer_(FCX),The UI allows for requesting coincident data transformations
+Field_Campaign_Explorer_(FCX),"The UI provides access to data quality information- this may be through look up tables, masks, or user guides. originally: Data  are accompanied by the associated data quality information , decoded out of binary format into a human-readable explanation of the quality interpretation for an observation (Quality Lookup Tables provided)"
+OpenAltimetry,Number of DAACs/SIPS from which data is accessed?
+OpenAltimetry,"As a user, I can search and access NASA EOSDIS's available data holdings"
+OpenAltimetry,"As a user, I can search for data based on keywords"
+OpenAltimetry,"As a user, I can search for data variables based on keywords."
+OpenAltimetry,A curated list of locations is supplied to enable common or popular searches Originally: Search for data at common/popular field and flux tower sites
+OpenAltimetry,"As a user, available services (and valid date ranges, etc.) are dynamically listed based on my data and search selections."
+OpenAltimetry,"As a user, i can view historical searches"
+OpenAltimetry,"As a user, I can compare measurements within the tool Original: Interactively view and compare time series of in situ measurements in a plot Also: As a user, I can visually and mathematically compare two separate variables."
+OpenAltimetry,"As a user, I can visualize data from a curated list of locations on the map. Original: Interactively view common/popular field and flux tower sites of different research networks on a map."
+OpenAltimetry,"As a (logged in) user, I can view my visualization history."
+OpenAltimetry,"As a user, I can view the manner in which the visualization was created"
+OpenAltimetry,"As a user, I can generate a high resolution animation for presentations"
+OpenAltimetry,"As a user, I can view and download Summary Statistics for selected data"
+OpenAltimetry,As a user I can visualize data statistics
+OpenAltimetry,The UI allows for data spatial subsetting transformations via region
+OpenAltimetry,The UI allows for data reprojection transformations
+OpenAltimetry,Ability to bulk download customized output files
+OpenAltimetry,The UI allows for requesting coincident data transformations
+OpenAltimetry,"As a user, I can view my transformation history"
+OpenAltimetry,"As a user, I can view my transformation status and progress"
+OpenAltimetry,"As a user, I can visualize my customized data within the UI (e.g. transformations applied)"
+OpenAltimetry,Ability to re-submit the exact same request
+OpenAltimetry,UI design is responsive (e.g. based on client type).
+Data_Access_Tool,Number of DAACs/SIPS from which data is accessed?
+Data_Access_Tool,Search data by product ID (short name)
+Data_Access_Tool,Search by criteria streamlined to use-based specific needs
+Data_Access_Tool,"As a user, I can search for data based on keywords"
+Data_Access_Tool,"As a user, I can search for data variables based on keywords."
+Data_Access_Tool,A curated list of locations is supplied to enable common or popular searches Originally: Search for data at common/popular field and flux tower sites
+Data_Access_Tool,"As a user, I can share my search with colleagues."
+Data_Access_Tool,"As a user, i can view historical searches"
+Data_Access_Tool,"As a user, I can bulk download search data"
+Data_Access_Tool,"As a user, I can acquire data via public API"
+Data_Access_Tool,Visualize environmental indicators on a map and browse imagery
+Data_Access_Tool,"As a user, I can visualize data availability on a timeline"
+Data_Access_Tool,"As a user, I can visualize data on an interactive map"
+Data_Access_Tool,"As a user, I can visualize data as an interactive time series."
+Data_Access_Tool,"As a user, I can visualize multiple data variables at once."
+Data_Access_Tool,"As a user, I can visualize quality information for my desired data within the UI"
+Data_Access_Tool,"As a user, I can compare measurements within the tool Original: Interactively view and compare time series of in situ measurements in a plot Also: As a user, I can visually and mathematically compare two separate variables."
+Data_Access_Tool,"As a user, I can visualize data from a curated list of locations on the map. Original: Interactively view common/popular field and flux tower sites of different research networks on a map."
+Data_Access_Tool,"As a user, I can share my visualization with colleagues."
+Data_Access_Tool,"As a (logged in) user, I can view my visualization history."
+Data_Access_Tool,"As a user, I can view the manner in which the visualization was created"
+Data_Access_Tool,"As a user, I can generate a high resolution animation for presentations"
+Data_Access_Tool,"As a user, I can download and save visualizations from the tool"
+Data_Access_Tool,"As a user, I can view and download Summary Statistics for selected data"
+Data_Access_Tool,As a user I can visualize data statistics
+Data_Access_Tool,The UI allows for data spatial subsetting transformations
+Data_Access_Tool,The UI allows for data spatial subsetting transformations via region
+Data_Access_Tool,The UI allows for data  temporal subsetting transformations?
+Data_Access_Tool,The UI allows for data  band/layer/variable subsetting transformations?
+Data_Access_Tool,The UI allows for data reprojection transformations
+Data_Access_Tool,The UI allows the reformatting of output files into other formats.
+Data_Access_Tool,Ability to bulk download customized output files
+Data_Access_Tool,The UI allows for requesting coincident data transformations
+Data_Access_Tool,"As a user, I can view my transformation history"
+Data_Access_Tool,"As a user, I can view my transformation status and progress"
+Data_Access_Tool,"As a user, I can visualize my customized data within the UI (e.g. transformations applied)"
+Data_Access_Tool,Ability to re-submit the exact same request
+Data_Access_Tool,"The UI provides access to data quality information- this may be through look up tables, masks, or user guides. originally: Data  are accompanied by the associated data quality information , decoded out of binary format into a human-readable explanation of the quality interpretation for an observation (Quality Lookup Tables provided)"
+Data_Access_Tool,Offer a formal citation for users to easily cite the tool in publications.
+Data_Access_Tool,The tool prevents users from applying incompatible combinations
+Data_Access_Tool,UI design is responsive (e.g. based on client type).
+Data_Access_Tool,"As a user, I can complete all tasks within the tool UX"
+Operation_IceBridge_Portal,Number of DAACs/SIPS from which data is accessed?
+Operation_IceBridge_Portal,"As a user, I can search data based on Geospatial areas"
+Operation_IceBridge_Portal,Search by criteria streamlined to use-based specific needs
+Operation_IceBridge_Portal,"As a user, I can search for data based on keywords"
+Operation_IceBridge_Portal,"As a user, I can search for data variables based on keywords."
+Operation_IceBridge_Portal,A curated list of locations is supplied to enable common or popular searches Originally: Search for data at common/popular field and flux tower sites
+Operation_IceBridge_Portal,"As a user, available services (and valid date ranges, etc.) are dynamically listed based on my data and search selections."
+Operation_IceBridge_Portal,"As a user, I can share my search with colleagues."
+Operation_IceBridge_Portal,"As a user, i can view historical searches"
+Operation_IceBridge_Portal,"As a user, I can bulk download search data"
+Operation_IceBridge_Portal,"As a user, I can acquire data via public API"
+Operation_IceBridge_Portal,"As a user, I can visualize data availability on a timeline"
+Operation_IceBridge_Portal,"As a user, I can visualize data as an interactive time series."
+Operation_IceBridge_Portal,"As a user, I can visualize multiple data variables at once."
+Operation_IceBridge_Portal,"As a user, I can visualize quality information for my desired data within the UI"
+Operation_IceBridge_Portal,"As a user, I can compare measurements within the tool Original: Interactively view and compare time series of in situ measurements in a plot Also: As a user, I can visually and mathematically compare two separate variables."
+Operation_IceBridge_Portal,"As a user, I can visualize data from a curated list of locations on the map. Original: Interactively view common/popular field and flux tower sites of different research networks on a map."
+Operation_IceBridge_Portal,"As a user, I can share my visualization with colleagues."
+Operation_IceBridge_Portal,"As a (logged in) user, I can view my visualization history."
+Operation_IceBridge_Portal,"As a user, I can view the manner in which the visualization was created"
+Operation_IceBridge_Portal,"As a user, I can generate a high resolution animation for presentations"
+Operation_IceBridge_Portal,"As a user, I can download and save visualizations from the tool"
+Operation_IceBridge_Portal,"As a user, I can view and download Summary Statistics for selected data"
+Operation_IceBridge_Portal,As a user I can visualize data statistics
+Operation_IceBridge_Portal,The UI allows for data spatial subsetting transformations
+Operation_IceBridge_Portal,The UI allows for data spatial subsetting transformations via region
+Operation_IceBridge_Portal,The UI allows for data  temporal subsetting transformations?
+Operation_IceBridge_Portal,The UI allows for data  band/layer/variable subsetting transformations?
+Operation_IceBridge_Portal,The UI allows for data reprojection transformations
+Operation_IceBridge_Portal,The UI allows the reformatting of output files into other formats.
+Operation_IceBridge_Portal,Ability to bulk download customized output files
+Operation_IceBridge_Portal,The UI allows for requesting coincident data transformations
+Operation_IceBridge_Portal,"As a user, I can view my transformation history"
+Operation_IceBridge_Portal,"As a user, I can view my transformation status and progress"
+Operation_IceBridge_Portal,"As a user, I can visualize my customized data within the UI (e.g. transformations applied)"
+Operation_IceBridge_Portal,Ability to re-submit the exact same request
+Operation_IceBridge_Portal,"The UI provides access to data quality information- this may be through look up tables, masks, or user guides. originally: Data  are accompanied by the associated data quality information , decoded out of binary format into a human-readable explanation of the quality interpretation for an observation (Quality Lookup Tables provided)"
+Operation_IceBridge_Portal,Offer a formal citation for users to easily cite the tool in publications.
+Operation_IceBridge_Portal,The tool prevents users from applying incompatible combinations
+Operation_IceBridge_Portal,UI design is responsive (e.g. based on client type).
+Operation_IceBridge_Portal,"As a user, I can complete all tasks within the tool UX"
+Vertex,Number of DAACs/SIPS from which data is accessed?
+Vertex,"As a user, I can generate a high resolution animation for presentations"
+Vertex,"As a user, I can download and save visualizations from the tool"
+Vertex,The UI allows for data spatial subsetting transformations via region
+Vertex,The UI allows for data reprojection transformations
+Vertex,The UI allows the reformatting of output files into other formats.
+Vertex,The UI allows for requesting coincident data transformations
+Vertex,Offer a formal citation for users to easily cite the tool in publications.
+Earthdata_Search,Search by criteria streamlined to use-based specific needs
+Earthdata_Search,"As a user, I can visualize data as an interactive time series."
+Earthdata_Search,"As a user, I can visualize quality information for my desired data within the UI"
+Earthdata_Search,"As a user, I can compare measurements within the tool Original: Interactively view and compare time series of in situ measurements in a plot Also: As a user, I can visually and mathematically compare two separate variables."
+Earthdata_Search,"As a user, I can visualize data from a curated list of locations on the map. Original: Interactively view common/popular field and flux tower sites of different research networks on a map."
+Earthdata_Search,"As a (logged in) user, I can view my visualization history."
+Earthdata_Search,"As a user, I can view the manner in which the visualization was created"
+Earthdata_Search,"As a user, I can generate a high resolution animation for presentations"
+Earthdata_Search,"As a user, I can download and save visualizations from the tool"
+Earthdata_Search,"As a user, I can view and download Summary Statistics for selected data"
+Earthdata_Search,As a user I can visualize data statistics
+Earthdata_Search,The UI allows for data spatial subsetting transformations via region
+Earthdata_Search,"As a user, I can view my transformation history"
+Earthdata_Search,"As a user, I can visualize my customized data within the UI (e.g. transformations applied)"
+Earthdata_Search,Offer a formal citation for users to easily cite the tool in publications.
+Earthdata_Search,UI design is responsive (e.g. based on client type).
+SOOT,Number of DAACs/SIPS from which data is accessed?
+SOOT,"As a user, I can search data based on Geospatial areas"
+SOOT,Search by criteria streamlined to use-based specific needs
+SOOT,"As a user, I can share my search with colleagues."
+SOOT,"As a user, i can view historical searches"
+SOOT,"As a user, I can acquire data via public API"
+SOOT,Visualize environmental indicators on a map and browse imagery
+SOOT,"As a user, I can visualize data availability on a timeline"
+SOOT,"As a user, I can visualize data on an interactive map"
+SOOT,"As a user, I can visualize data as an interactive time series."
+SOOT,"As a user, I can visualize multiple data variables at once."
+SOOT,"As a user, I can visualize quality information for my desired data within the UI"
+SOOT,"As a user, I can compare measurements within the tool Original: Interactively view and compare time series of in situ measurements in a plot Also: As a user, I can visually and mathematically compare two separate variables."
+SOOT,"As a user, I can visualize data from a curated list of locations on the map. Original: Interactively view common/popular field and flux tower sites of different research networks on a map."
+SOOT,"As a user, I can share my visualization with colleagues."
+SOOT,"As a (logged in) user, I can view my visualization history."
+SOOT,"As a user, I can view the manner in which the visualization was created"
+SOOT,"As a user, I can generate a high resolution animation for presentations"
+SOOT,"As a user, I can download and save visualizations from the tool"
+SOOT,"As a user, I can view and download Summary Statistics for selected data"
+SOOT,As a user I can visualize data statistics
+SOOT,The UI allows for data spatial subsetting transformations
+SOOT,The UI allows for data spatial subsetting transformations via region
+SOOT,The UI allows for data  temporal subsetting transformations?
+SOOT,The UI allows for data reprojection transformations
+SOOT,The UI allows the reformatting of output files into other formats.
+SOOT,"As a user, I can view my transformation history"
+SOOT,"As a user, I can view my transformation status and progress"
+SOOT,"As a user, I can visualize my customized data within the UI (e.g. transformations applied)"
+SOOT,"The UI provides access to data quality information- this may be through look up tables, masks, or user guides. originally: Data  are accompanied by the associated data quality information , decoded out of binary format into a human-readable explanation of the quality interpretation for an observation (Quality Lookup Tables provided)"
+SOOT,UI design is responsive (e.g. based on client type).
+Airborne_Data_Visualizer,Number of DAACs/SIPS from which data is accessed?
+Airborne_Data_Visualizer,"As a user, I can search and access NASA EOSDIS's available data holdings"
+Airborne_Data_Visualizer,"As a user, I can search data based on Geospatial areas"
+Airborne_Data_Visualizer,Search data by product ID (short name)
+Airborne_Data_Visualizer,Search by criteria streamlined to use-based specific needs
+Airborne_Data_Visualizer,"As a user, I can search for data based on keywords"
+Airborne_Data_Visualizer,"As a user, I can search for data variables based on keywords."
+Airborne_Data_Visualizer,A curated list of locations is supplied to enable common or popular searches Originally: Search for data at common/popular field and flux tower sites
+Airborne_Data_Visualizer,"As a user, available services (and valid date ranges, etc.) are dynamically listed based on my data and search selections."
+Airborne_Data_Visualizer,"As a user, i can view historical searches"
+Airborne_Data_Visualizer,"As a user, I can bulk download search data"
+Airborne_Data_Visualizer,Visualize environmental indicators on a map and browse imagery
+Airborne_Data_Visualizer,"As a user, I can visualize data availability on a timeline"
+Airborne_Data_Visualizer,"As a user, I can visualize quality information for my desired data within the UI"
+Airborne_Data_Visualizer,"As a user, I can visualize data from a curated list of locations on the map. Original: Interactively view common/popular field and flux tower sites of different research networks on a map."
+Airborne_Data_Visualizer,"As a (logged in) user, I can view my visualization history."
+Airborne_Data_Visualizer,"As a user, I can view the manner in which the visualization was created"
+Airborne_Data_Visualizer,"As a user, I can generate a high resolution animation for presentations"
+Airborne_Data_Visualizer,"As a user, I can download and save visualizations from the tool"
+Airborne_Data_Visualizer,"As a user, I can view and download Summary Statistics for selected data"
+Airborne_Data_Visualizer,As a user I can visualize data statistics
+Airborne_Data_Visualizer,The UI allows for data spatial subsetting transformations
+Airborne_Data_Visualizer,The UI allows for data spatial subsetting transformations via region
+Airborne_Data_Visualizer,The UI allows for data  temporal subsetting transformations?
+Airborne_Data_Visualizer,The UI allows for data  band/layer/variable subsetting transformations?
+Airborne_Data_Visualizer,The UI allows for data reprojection transformations
+Airborne_Data_Visualizer,The UI allows the reformatting of output files into other formats.
+Airborne_Data_Visualizer,Ability to bulk download customized output files
+Airborne_Data_Visualizer,The UI allows for requesting coincident data transformations
+Airborne_Data_Visualizer,"As a user, I can view my transformation history"
+Airborne_Data_Visualizer,"As a user, I can view my transformation status and progress"
+Airborne_Data_Visualizer,"As a user, I can visualize my customized data within the UI (e.g. transformations applied)"
+Airborne_Data_Visualizer,Ability to re-submit the exact same request
+Airborne_Data_Visualizer,"The UI provides access to data quality information- this may be through look up tables, masks, or user guides. originally: Data  are accompanied by the associated data quality information , decoded out of binary format into a human-readable explanation of the quality interpretation for an observation (Quality Lookup Tables provided)"
+Airborne_Data_Visualizer,The tool prevents users from applying incompatible combinations
+Airborne_Data_Visualizer,UI design is responsive (e.g. based on client type).
+Giovanni,"As a user, I can search for data based on Temporal bounds"
+Giovanni,Search by criteria streamlined to use-based specific needs
+Giovanni,"As a user, I can visualize quality information for my desired data within the UI"
+Giovanni,The UI allows for requesting coincident data transformations
+Worldview,"As a user, I can search data based on Geospatial areas"
+Worldview,"As a user, I can search for data based on Temporal bounds"
+Worldview,A curated list of locations is supplied to enable common or popular searches Originally: Search for data at common/popular field and flux tower sites
+Worldview,"As a user, I can acquire data via direct download in the UI"
+Worldview,"As a user, I can bulk download search data"
+Worldview,"As a user, I can visualize quality information for my desired data within the UI"
+Worldview,"As a user, I can visualize data from a curated list of locations on the map. Original: Interactively view common/popular field and flux tower sites of different research networks on a map."
+Worldview,"As a (logged in) user, I can view my visualization history."
+Worldview,"As a user, I can view the manner in which the visualization was created"
+Worldview,The UI allows for data spatial subsetting transformations
+Worldview,The UI allows for data spatial subsetting transformations via region
+Worldview,The UI allows for data  temporal subsetting transformations?
+Worldview,The UI allows for data  band/layer/variable subsetting transformations?
+Worldview,The UI allows for data reprojection transformations
+Worldview,The UI allows the reformatting of output files into other formats.
+Worldview,Ability to bulk download customized output files
+Worldview,The UI allows for requesting coincident data transformations
+Worldview,"As a user, I can view my transformation history"
+Worldview,"As a user, I can view my transformation status and progress"
+Worldview,"As a user, I can visualize my customized data within the UI (e.g. transformations applied)"
+Worldview,Ability to re-submit the exact same request
+Worldview,"As a user, I can complete all tasks within the tool UX"

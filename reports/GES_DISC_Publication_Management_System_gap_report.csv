@@ -1,0 +1,83 @@
+alternative,missing function
+AppEEARS,Search by Principal Investigator (PI)
+AppEEARS,Search by criteria streamlined to use-based specific needs
+AppEEARS,"As a user, I can refine my search results based on multiple criteria"
+AppEEARS,"As a user, I can customize my application experience"
+AppEEARS,The tool prevents users from applying incompatible combinations
+AppEEARS,"The candidate/tool can be easily embedded (i.e., without substantial modification) in a web page or application"
+AppEEARS,"As a user, I can deep-link to the app, maintaining the entire state"
+Field_Campaign_Explorer_(FCX),"As a user, I can search and access NASA EOSDIS's available data holdings"
+Field_Campaign_Explorer_(FCX),Search data by product ID (short name)
+Field_Campaign_Explorer_(FCX),Search by Principal Investigator (PI)
+Field_Campaign_Explorer_(FCX),Search by criteria streamlined to use-based specific needs
+Field_Campaign_Explorer_(FCX),"As a user, I can search for data based on keywords"
+Field_Campaign_Explorer_(FCX),"As a user, I can refine my search results based on multiple criteria"
+Field_Campaign_Explorer_(FCX),"As a user, I can share my search with colleagues."
+Field_Campaign_Explorer_(FCX),The UI allows the reformatting of output files into other formats.
+Field_Campaign_Explorer_(FCX),"As a user, I can deep-link to the app, maintaining the entire state"
+OpenAltimetry,"As a user, I can search and access NASA EOSDIS's available data holdings"
+OpenAltimetry,Search by Principal Investigator (PI)
+OpenAltimetry,"As a user, I can search for data based on keywords"
+OpenAltimetry,Ability to bulk download customized output files
+OpenAltimetry,Ability to re-submit the exact same request
+OpenAltimetry,UI design is responsive (e.g. based on client type).
+OpenAltimetry,"The candidate/tool can be easily embedded (i.e., without substantial modification) in a web page or application"
+Data_Access_Tool,Search data by product ID (short name)
+Data_Access_Tool,Search by Principal Investigator (PI)
+Data_Access_Tool,Search by criteria streamlined to use-based specific needs
+Data_Access_Tool,"As a user, I can search for data based on keywords"
+Data_Access_Tool,"As a user, I can share my search with colleagues."
+Data_Access_Tool,The UI allows the reformatting of output files into other formats.
+Data_Access_Tool,Ability to bulk download customized output files
+Data_Access_Tool,Ability to re-submit the exact same request
+Data_Access_Tool,"As a user, I can customize my application experience"
+Data_Access_Tool,The tool prevents users from applying incompatible combinations
+Data_Access_Tool,UI design is responsive (e.g. based on client type).
+Data_Access_Tool,"As a user, I can complete all tasks within the tool UX"
+Operation_IceBridge_Portal,Search by Principal Investigator (PI)
+Operation_IceBridge_Portal,Search by criteria streamlined to use-based specific needs
+Operation_IceBridge_Portal,"As a user, I can search for data based on keywords"
+Operation_IceBridge_Portal,"As a user, I can share my search with colleagues."
+Operation_IceBridge_Portal,The UI allows the reformatting of output files into other formats.
+Operation_IceBridge_Portal,Ability to bulk download customized output files
+Operation_IceBridge_Portal,Ability to re-submit the exact same request
+Operation_IceBridge_Portal,"As a user, I can customize my application experience"
+Operation_IceBridge_Portal,The tool prevents users from applying incompatible combinations
+Operation_IceBridge_Portal,UI design is responsive (e.g. based on client type).
+Operation_IceBridge_Portal,"The candidate/tool can be easily embedded (i.e., without substantial modification) in a web page or application"
+Operation_IceBridge_Portal,"As a user, I can complete all tasks within the tool UX"
+Operation_IceBridge_Portal,"As a user, I can deep-link to the app, maintaining the entire state"
+Vertex,Search by Principal Investigator (PI)
+Vertex,The UI allows the reformatting of output files into other formats.
+Vertex,"The candidate/tool can be easily embedded (i.e., without substantial modification) in a web page or application"
+Earthdata_Search,Search by Principal Investigator (PI)
+Earthdata_Search,Search by criteria streamlined to use-based specific needs
+Earthdata_Search,UI design is responsive (e.g. based on client type).
+Earthdata_Search,"The candidate/tool can be easily embedded (i.e., without substantial modification) in a web page or application"
+SOOT,Search by criteria streamlined to use-based specific needs
+SOOT,"As a user, I can share my search with colleagues."
+SOOT,The UI allows the reformatting of output files into other formats.
+SOOT,UI design is responsive (e.g. based on client type).
+SOOT,"The candidate/tool can be easily embedded (i.e., without substantial modification) in a web page or application"
+Airborne_Data_Visualizer,"As a user, I can search and access NASA EOSDIS's available data holdings"
+Airborne_Data_Visualizer,Search data by product ID (short name)
+Airborne_Data_Visualizer,Search by Principal Investigator (PI)
+Airborne_Data_Visualizer,Search by criteria streamlined to use-based specific needs
+Airborne_Data_Visualizer,"As a user, I can search for data based on keywords"
+Airborne_Data_Visualizer,"As a user, I can refine my search results based on multiple criteria"
+Airborne_Data_Visualizer,The UI allows the reformatting of output files into other formats.
+Airborne_Data_Visualizer,Ability to bulk download customized output files
+Airborne_Data_Visualizer,Ability to re-submit the exact same request
+Airborne_Data_Visualizer,"As a user, I can customize my application experience"
+Airborne_Data_Visualizer,The tool prevents users from applying incompatible combinations
+Airborne_Data_Visualizer,UI design is responsive (e.g. based on client type).
+Airborne_Data_Visualizer,"The candidate/tool can be easily embedded (i.e., without substantial modification) in a web page or application"
+Airborne_Data_Visualizer,"As a user, I can deep-link to the app, maintaining the entire state"
+Giovanni,Search by Principal Investigator (PI)
+Giovanni,Search by criteria streamlined to use-based specific needs
+Giovanni,Ability to bulk download customized output files
+Worldview,Search by Principal Investigator (PI)
+Worldview,The UI allows the reformatting of output files into other formats.
+Worldview,Ability to bulk download customized output files
+Worldview,Ability to re-submit the exact same request
+Worldview,"As a user, I can complete all tasks within the tool UX"

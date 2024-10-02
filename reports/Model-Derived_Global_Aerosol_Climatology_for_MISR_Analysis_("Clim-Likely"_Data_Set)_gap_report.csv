@@ -1,0 +1,32 @@
+alternative,missing function
+AppEEARS,"As a user, available services (and valid date ranges, etc.) are dynamically listed based on my data and search selections."
+AppEEARS,The tool prevents users from applying incompatible combinations
+Field_Campaign_Explorer_(FCX),"As a user, available services (and valid date ranges, etc.) are dynamically listed based on my data and search selections."
+Field_Campaign_Explorer_(FCX),"The UI provides access to data quality information- this may be through look up tables, masks, or user guides. originally: Data  are accompanied by the associated data quality information , decoded out of binary format into a human-readable explanation of the quality interpretation for an observation (Quality Lookup Tables provided)"
+OpenAltimetry,"As a user, available services (and valid date ranges, etc.) are dynamically listed based on my data and search selections."
+OpenAltimetry,Ability to re-submit the exact same request
+OpenAltimetry,UI design is responsive (e.g. based on client type).
+Data_Access_Tool,"As a user, I can acquire data via public API"
+Data_Access_Tool,Ability to re-submit the exact same request
+Data_Access_Tool,"The UI provides access to data quality information- this may be through look up tables, masks, or user guides. originally: Data  are accompanied by the associated data quality information , decoded out of binary format into a human-readable explanation of the quality interpretation for an observation (Quality Lookup Tables provided)"
+Data_Access_Tool,The tool prevents users from applying incompatible combinations
+Data_Access_Tool,UI design is responsive (e.g. based on client type).
+Data_Access_Tool,"As a user, I can complete all tasks within the tool UX"
+Operation_IceBridge_Portal,"As a user, available services (and valid date ranges, etc.) are dynamically listed based on my data and search selections."
+Operation_IceBridge_Portal,"As a user, I can acquire data via public API"
+Operation_IceBridge_Portal,Ability to re-submit the exact same request
+Operation_IceBridge_Portal,"The UI provides access to data quality information- this may be through look up tables, masks, or user guides. originally: Data  are accompanied by the associated data quality information , decoded out of binary format into a human-readable explanation of the quality interpretation for an observation (Quality Lookup Tables provided)"
+Operation_IceBridge_Portal,The tool prevents users from applying incompatible combinations
+Operation_IceBridge_Portal,UI design is responsive (e.g. based on client type).
+Operation_IceBridge_Portal,"As a user, I can complete all tasks within the tool UX"
+Earthdata_Search,UI design is responsive (e.g. based on client type).
+SOOT,"As a user, I can acquire data via public API"
+SOOT,"The UI provides access to data quality information- this may be through look up tables, masks, or user guides. originally: Data  are accompanied by the associated data quality information , decoded out of binary format into a human-readable explanation of the quality interpretation for an observation (Quality Lookup Tables provided)"
+SOOT,UI design is responsive (e.g. based on client type).
+Airborne_Data_Visualizer,"As a user, available services (and valid date ranges, etc.) are dynamically listed based on my data and search selections."
+Airborne_Data_Visualizer,Ability to re-submit the exact same request
+Airborne_Data_Visualizer,"The UI provides access to data quality information- this may be through look up tables, masks, or user guides. originally: Data  are accompanied by the associated data quality information , decoded out of binary format into a human-readable explanation of the quality interpretation for an observation (Quality Lookup Tables provided)"
+Airborne_Data_Visualizer,The tool prevents users from applying incompatible combinations
+Airborne_Data_Visualizer,UI design is responsive (e.g. based on client type).
+Worldview,Ability to re-submit the exact same request
+Worldview,"As a user, I can complete all tasks within the tool UX"
